@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-28T14:23:40",
+  "last_updated": "2026-07-28T14:24:33",
   "html": {
     "https://web.archive.org/web/20260212101541if_/https://twitter.com/KUROKI___TOMOKO/status/2021890947286806621": {
       "status": "done",
@@ -312,18 +312,18 @@
       "referenced_by": [
         "20260208130538_twitter_com_KUROKI___TOMOKO_status_2020484164349215036.json"
       ],
-      "last_updated": "2026-07-28T14:22:49",
+      "last_updated": "2026-07-28T14:24:11",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260208130538/https://pbs.twimg.com/media/HAoznv3bkAAgP0_.jpg",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HA4PdMkakAAiOxp.jpg": {
       "status": "failed_all",
       "referenced_by": [
         "20260211130152_twitter_com_KUROKI___TOMOKO_status_2021570379542581323.json"
       ],
-      "last_updated": "2026-07-28T14:22:37",
+      "last_updated": "2026-07-28T14:24:15",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260211130152/https://pbs.twimg.com/media/HA4PdMkakAAiOxp.jpg",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HAyiIm7akAA4ere.jpg": {
       "status": "done",
@@ -354,22 +354,22 @@
       "last_updated": "2026-07-28T14:22:38"
     },
     "https://pbs.twimg.com/media/HAy6d_paAAQ0T40.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260211155921_twitter_com_KUROKI___TOMOKO_status_2021615045147304128.json"
       ],
-      "last_updated": "2026-07-28T14:22:35",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260211155921/https://pbs.twimg.com/media/HAy6d_paAAQ0T40.jpg",
-      "miss_count": 2
+      "last_updated": "2026-07-28T14:24:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260211155921im_/https://pbs.twimg.com/media/HAy6d_paAAQ0T40.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3cee22c5f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HA8zJrWaUAAGPQP.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260212101600_twitter_com_KUROKI___TOMOKO_status_2021891026856931379.json"
       ],
-      "last_updated": "2026-07-28T14:22:37",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260212101600/https://pbs.twimg.com/media/HA8zJrWaUAAGPQP.jpg",
-      "miss_count": 2
+      "last_updated": "2026-07-28T14:24:24",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260212101600im_/https://pbs.twimg.com/media/HA8zJrWaUAAGPQP.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3cecb10c20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HBuEiicWoAAEUsF.jpg": {
       "status": "done",
@@ -379,22 +379,22 @@
       "last_updated": "2026-07-28T14:22:32"
     },
     "https://pbs.twimg.com/media/HB0U4TibMAABWMi.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260223050232_twitter_com_KUROKI___TOMOKO_status_2025798405835092252.json"
       ],
-      "last_updated": "2026-07-28T14:22:37",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260223050232/https://pbs.twimg.com/media/HB0U4TibMAABWMi.jpg",
-      "miss_count": 2
+      "last_updated": "2026-07-28T14:24:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260223050232im_/https://pbs.twimg.com/media/HB0U4TibMAABWMi.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3cecb13170>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HB7inrwbsAAyuyR.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260224144951_twitter_com_KUROKI___TOMOKO_status_2026308597806944346.json"
       ],
-      "last_updated": "2026-07-28T14:22:39",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260224144951/https://pbs.twimg.com/media/HB7inrwbsAAyuyR.jpg",
-      "miss_count": 2
+      "last_updated": "2026-07-28T14:24:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260224144951im_/https://pbs.twimg.com/media/HB7inrwbsAAyuyR.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3cecb11c10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HCSfoSQWcAAqusM.jpg": {
       "status": "done",
