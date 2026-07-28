@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-28T14:23:02",
+  "last_updated": "2026-07-28T14:23:40",
   "html": {
     "https://web.archive.org/web/20260212101541if_/https://twitter.com/KUROKI___TOMOKO/status/2021890947286806621": {
       "status": "done",
@@ -577,9 +577,9 @@
         "20260329165753_twitter_com_KUROKI___TOMOKO_status_2038299618002534441.json",
         "20260401195000_twitter_com_KUROKI___TOMOKO_status_2039430097929920844.json"
       ],
-      "last_updated": "2026-07-28T14:10:47",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401195000if_/https://pbs.twimg.com/profile_images/2016845757899558912/aH0m-6N6_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f75c6d34230>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:23:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401195000im_/https://pbs.twimg.com/profile_images/2016845757899558912/aH0m-6N6_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4a86c08d40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/1870688376703361024/AnicbCw1_normal.jpg": {
       "status": "done",
@@ -590,22 +590,22 @@
       "last_updated": "2026-07-28T14:10:44"
     },
     "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260208191800_twitter_com_KUROKI___TOMOKO_status_2020577875905355799.json"
       ],
-      "last_updated": "2026-07-28T14:10:47",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260208191800if_/https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f75c45723c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:23:16",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260208191800if_/https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2020186284996849668/hmFH2EdV_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260209102225_twitter_com_KUROKI___TOMOKO_status_2020805477626491176.json"
       ],
-      "last_updated": "2026-07-28T14:10:46",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260209102225if_/https://pbs.twimg.com/profile_images/2020186284996849668/hmFH2EdV_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f75c44320c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:23:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260209102225im_/https://pbs.twimg.com/profile_images/2020186284996849668/hmFH2EdV_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4a86c40980>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/1906654089674637312/vujfW42O_normal.jpg": {
       "status": "done",
@@ -619,9 +619,9 @@
       "referenced_by": [
         "20260211130152_twitter_com_KUROKI___TOMOKO_status_2021570379542581323.json"
       ],
-      "last_updated": "2026-07-28T14:10:47",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260211130152if_/https://pbs.twimg.com/profile_images/2020947792492142592/j3YbZcfs_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f75c44600e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:23:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260211130152im_/https://pbs.twimg.com/profile_images/2020947792492142592/j3YbZcfs_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4a86c40950>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2009065279201095680/OWiNletC_normal.jpg": {
       "status": "done",
@@ -668,19 +668,19 @@
         "20260215142022_twitter_com_KUROKI___TOMOKO_status_2023039686231687306.json",
         "20260308130449_twitter_com_KUROKI___TOMOKO_status_2030630820768362983.json"
       ],
-      "last_updated": "2026-07-28T14:10:48",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260308130449if_/https://pbs.twimg.com/profile_images/2012417703731212288/ppcmy3DX_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f75c4462ae0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:23:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260308130449im_/https://pbs.twimg.com/profile_images/2012417703731212288/ppcmy3DX_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4a86c434a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2003359414171127808/qr6PQvyn_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260215142622_twitter_com_KUROKI___TOMOKO_status_2023041197909082156.json",
         "20260308125916_twitter_com_KUROKI___TOMOKO_status_2030629425566699697.json"
       ],
-      "last_updated": "2026-07-28T14:10:47",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260308125916if_/https://pbs.twimg.com/profile_images/2003359414171127808/qr6PQvyn_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f75c4432690>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:23:16",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260308125916if_/https://pbs.twimg.com/profile_images/2003359414171127808/qr6PQvyn_normal.jpg",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2000859063031357440/HgG29lUb_normal.jpg": {
       "status": "done",
@@ -692,11 +692,11 @@
       "last_updated": "2026-07-28T14:10:43"
     },
     "https://pbs.twimg.com/profile_images/2016867499816693760/cgM-POhS_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260221072512_twitter_com_KUROKI___TOMOKO_status_2025109536118587783.json"
       ],
-      "last_updated": "2026-07-28T14:10:50",
+      "last_updated": "2026-07-28T14:23:13",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260221072512if_/https://pbs.twimg.com/profile_images/2016867499816693760/cgM-POhS_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f75c4463890>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -712,9 +712,9 @@
       "referenced_by": [
         "20260224144951_twitter_com_KUROKI___TOMOKO_status_2026308597806944346.json"
       ],
-      "last_updated": "2026-07-28T14:10:48",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260224144951if_/https://pbs.twimg.com/profile_images/2024867356326158336/KitlTYKY_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f75c4461d00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:23:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260224144951im_/https://pbs.twimg.com/profile_images/2024867356326158336/KitlTYKY_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4a86c42750>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg": {
       "status": "done",
@@ -732,13 +732,13 @@
       "last_updated": "2026-07-28T14:10:43"
     },
     "https://pbs.twimg.com/profile_images/2006724944260890624/QLkEQWpH_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260306174630_twitter_com_KUROKI___TOMOKO_status_2029976931224232000.json"
       ],
-      "last_updated": "2026-07-28T14:10:47",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260306174630if_/https://pbs.twimg.com/profile_images/2006724944260890624/QLkEQWpH_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f75c4460ec0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:23:17",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260306174630if_/https://pbs.twimg.com/profile_images/2006724944260890624/QLkEQWpH_normal.jpg",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2021872576193343490/Ara_bImP_normal.jpg": {
       "status": "done",
@@ -763,13 +763,13 @@
       "last_updated": "2026-07-28T14:10:44"
     },
     "https://pbs.twimg.com/profile_images/2036303495939420160/A4FA3pzV_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260326032821_twitter_com_KUROKI___TOMOKO_status_2037008729267462313.json"
       ],
-      "last_updated": "2026-07-28T14:10:48",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326032821if_/https://pbs.twimg.com/profile_images/2036303495939420160/A4FA3pzV_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f75c4461880>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-28T14:23:16",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260326032821if_/https://pbs.twimg.com/profile_images/2036303495939420160/A4FA3pzV_normal.jpg",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1997302037944627200/F4mGNbtC_normal.jpg": {
       "status": "done",
