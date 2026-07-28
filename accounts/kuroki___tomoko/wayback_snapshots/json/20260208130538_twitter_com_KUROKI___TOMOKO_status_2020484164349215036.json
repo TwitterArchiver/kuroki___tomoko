@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020484140785963008"
+      ]
+    },
+    "author_id": "2015475537507184640",
+    "conversation_id": "2020484164349215036",
+    "created_at": "2026-02-08T13:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T14:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020484164349215036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zCTtV0MCde",
+          "end": 23,
+          "expanded_url": "https://x.com/KUROKI___TOMOKO/status/2020484164349215036/photo/1",
+          "media_key": "3_2020484140785963008",
+          "start": 0,
+          "url": "https://t.co/zCTtV0MCde"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020484164349215036",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/zCTtV0MCde"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 296,
+        "media_key": "3_2020484140785963008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoznv3bkAAgP0_.jpg",
+        "width": 467
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020484140785963008"
+          ]
+        },
+        "author_id": "2015475537507184640",
+        "conversation_id": "2020484164349215036",
+        "created_at": "2026-02-08T13:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T14:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020484164349215036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCTtV0MCde",
+              "end": 23,
+              "expanded_url": "https://x.com/KUROKI___TOMOKO/status/2020484164349215036/photo/1",
+              "media_key": "3_2020484140785963008",
+              "start": 0,
+              "url": "https://t.co/zCTtV0MCde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020484164349215036",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zCTtV0MCde"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-25T17:23:26.000Z",
+        "description": "牛鬼蛇神，在座的就有！\n马克思列宁毛主义/托洛茨基主义︱多党制无产阶级专政社会主义计划经济⚒️︱反帝反修︱抗中保台︱性少数平权🏳️‍⚧️🏳️‍🌈︱精神活性物质去罪化\n会发政经相关内容\n\n@Krktmk_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 93,
+                "username": "Krktmk_8964"
+              }
+            ]
+          }
+        },
+        "id": "2015475537507184640",
+        "location": "第一国际",
+        "name": "📕黒木トモコ☭ 🇺🇦🇵🇸 🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016845757899558912/aH0m-6N6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 39,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "KUROKI___TOMOKO",
+        "verified": false
+      }
+    ]
+  }
+}

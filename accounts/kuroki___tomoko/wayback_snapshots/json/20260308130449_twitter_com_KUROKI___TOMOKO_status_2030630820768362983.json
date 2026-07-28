@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015475537507184640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2030630820768362983",
+    "created_at": "2026-03-08T13:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T14:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030630820768362983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/weiguoqingGX/s…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/weiguoqingGX/status/2030490453947359433",
+          "start": 100,
+          "url": "https://t.co/osLL54wccm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030630820768362983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030490453947359433",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "马克思：🟩\n恩格斯：🟩\n伯恩施坦：🟥️\n列宁：🟩️\n斯大林：🟧️\n赫鲁晓夫：🟥️\n勃列日涅夫：🟥️\n毛泽东：🟩️\n“四人帮”：🟩️\n林彪：🟥️\n邓小平：🟥️\n江泽民：🟥️\n胡锦涛：🟥️\n习近平：🟥️ https://t.co/osLL54wccm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015475537507184640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2030630820768362983",
+        "created_at": "2026-03-08T13:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030630820768362983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weiguoqingGX/s…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/weiguoqingGX/status/2030490453947359433",
+              "start": 100,
+              "url": "https://t.co/osLL54wccm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030630820768362983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030490453947359433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马克思：🟩\n恩格斯：🟩\n伯恩施坦：🟥️\n列宁：🟩️\n斯大林：🟧️\n赫鲁晓夫：🟥️\n勃列日涅夫：🟥️\n毛泽东：🟩️\n“四人帮”：🟩️\n林彪：🟥️\n邓小平：🟥️\n江泽民：🟥️\n胡锦涛：🟥️\n习近平：🟥️ https://t.co/osLL54wccm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799623143683944448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2030490453947359433",
+        "created_at": "2026-03-08T03:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T04:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030490453947359433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Russiaemperor/…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/Russiaemperor/status/2030328712739328197",
+              "start": 133,
+              "url": "https://t.co/fwBEyNAMtT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030490453947359433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 633,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030328712739328197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马克思：🟩\n恩格斯：🟩\n伯恩施坦：🟩\n列宁：🟨\n斯大林：🟥\n赫鲁晓夫：🟩（光有革命的热情是不够的，还要一桌土豆炖牛肉的好菜🫡🫡🫡）\n勃列日涅夫：🟩（新时代发达社会主义万岁🫡）\n俄罗斯皇帝：🫡\n毛泽东：🟨（功劳是第一位的，过错是第二位）\n邓小平：🟩🟩🟩（神中神中神） https://t.co/fwBEyNAMtT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-25T17:23:26.000Z",
+        "description": "牛鬼蛇神，在座的就有！\n马克思列宁毛主义/托洛茨基主义︱无产阶级专政社会主义计划经济⚒️︱国际主义🇺🇳︱反帝反修︱🚩🏴 Ⓐ☭ 泛左翼联合︱抗中保台︱性少数平权🏳️‍🌈🏳️‍⚧️︱精神活性物质去罪化\n\n“你们要关心国家大事，要把无产阶级文化大革命进行到底！”",
+        "id": "2015475537507184640",
+        "location": "第一国际",
+        "name": "📕黒木トモコ☭🇻🇪🇺🇦🇵🇸🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016845757899558912/aH0m-6N6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 87,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 32
+        },
+        "username": "KUROKI___TOMOKO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T02:03:20.000Z",
+        "description": "霜打青松松更青，血染红旗旗更红。南疆三月起妖雾，小将今朝战恶风。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "caosixijinping.com",
+                "end": 23,
+                "expanded_url": "http://caosixijinping.com",
+                "start": 0,
+                "url": "https://t.co/P0A8vPJ6Ll"
+              }
+            ]
+          }
+        },
+        "id": "1799623143683944448",
+        "location": "天朝人民公社",
+        "name": "🚩山田凉前辈📕☭（淡推）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012417703731212288/ppcmy3DX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 794,
+          "like_count": 10190,
+          "listed_count": 3,
+          "media_count": 520,
+          "tweet_count": 3300
+        },
+        "url": "https://t.co/P0A8vPJ6Ll",
+        "username": "weiguoqingGX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015475537507184640",
+    "conversation_id": "2023041197909082156",
+    "created_at": "2026-02-15T14:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T15:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023041197909082156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1851166889655091202",
+          "start": 3,
+          "username": "DEERJU2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023041197909082156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022688501582696942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DEERJU2024: 很显然，只有左派口中国际共产主义的毛泽东才是教员。而粉红口中的民族主义的毛泽东只能是一条腐而不朽的湖南腊肉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015475537507184640",
+        "conversation_id": "2023041197909082156",
+        "created_at": "2026-02-15T14:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023041197909082156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1851166889655091202",
+              "start": 3,
+              "username": "DEERJU2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023041197909082156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022688501582696942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DEERJU2024: 很显然，只有左派口中国际共产主义的毛泽东才是教员。而粉红口中的民族主义的毛泽东只能是一条腐而不朽的湖南腊肉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851166889655091202",
+        "conversation_id": "2022688501582696942",
+        "created_at": "2026-02-14T15:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022688501582696942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Flyingfatdeer/…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/Flyingfatdeer/status/2022469408460050490",
+              "start": 54,
+              "url": "https://t.co/7LoliLsuGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022688501582696942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 8264,
+          "like_count": 175,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022469408460050490",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很显然，只有左派口中国际共产主义的毛泽东才是教员。而粉红口中的民族主义的毛泽东只能是一条腐而不朽的湖南腊肉 https://t.co/7LoliLsuGD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-25T17:23:26.000Z",
+        "description": "牛鬼蛇神，在座的就有！\n马克思列宁毛主义/托洛茨基主义︱无产阶级专政社会主义计划经济⚒️︱国际主义🇺🇳︱反帝反修︱🚩🏴 Ⓐ☭ 泛左翼联合︱抗中保台︱性少数平权🏳️‍⚧️🏳️‍🌈︱精神活性物质去罪化\n会发政经相关内容",
+        "id": "2015475537507184640",
+        "location": "第一国际",
+        "name": "📕黒木モコ☭🇻🇪 🇺🇦🇵🇸 🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016845757899558912/aH0m-6N6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 78,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "username": "KUROKI___TOMOKO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T07:39:32.000Z",
+        "description": "辩证法是实在世界中一切运动、一切生命、一切事业之推动的原则/\n我在他中直观到作为自我的我自己，然而在他中又直观到一个直接现存着的、作为自我而与我对立的、绝对独立的另一个客体。——黑格尔\n\n/要么是列宁主义，要么不是马克思主义。/Carry the revolution through the end.",
+        "id": "1851166889655091202",
+        "name": "Durkey",
+        "pinned_tweet_id": "2005364586413998209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003359414171127808/qr6PQvyn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 53,
+          "like_count": 622,
+          "listed_count": 12,
+          "media_count": 545,
+          "tweet_count": 8298
+        },
+        "username": "DEERJU2024",
+        "verified": false
+      }
+    ]
+  }
+}

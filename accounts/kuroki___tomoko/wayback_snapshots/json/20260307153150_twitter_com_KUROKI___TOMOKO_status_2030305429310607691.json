@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015475537507184640",
+    "conversation_id": "2030305429310607691",
+    "created_at": "2026-03-07T15:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T16:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030305429310607691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2030268322630320364",
+          "start": 107,
+          "url": "https://t.co/YlV2s9MzE9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030305429310607691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030268322630320364",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在中国像瘟神一样横行霸道的黑色产业面对任何有组织的乃至于团结勇敢的抗争一触即溃，这个英雄团队证明了如此    先前声名大噪的环帝学生暴动让它们逃的颜面扫地更证明了这些犯罪团伙的懦夫心态\n有事就这样“民办”处理好！ https://t.co/YlV2s9MzE9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030268306343813121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz2RI5bYAELJ3o.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030268306834550784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz2RKubcAA8K18.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030268307736342528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz2ROFbsAAZg68.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030268314791137280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCz2RoXbUAA2I6g.jpg",
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015475537507184640",
+        "conversation_id": "2030305429310607691",
+        "created_at": "2026-03-07T15:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030305429310607691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2030268322630320364",
+              "start": 107,
+              "url": "https://t.co/YlV2s9MzE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030305429310607691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030268322630320364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在中国像瘟神一样横行霸道的黑色产业面对任何有组织的乃至于团结勇敢的抗争一触即溃，这个英雄团队证明了如此    先前声名大噪的环帝学生暴动让它们逃的颜面扫地更证明了这些犯罪团伙的懦夫心态\n有事就这样“民办”处理好！ https://t.co/YlV2s9MzE9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030268306343813121",
+            "3_2030268306834550784",
+            "3_2030268307736342528",
+            "3_2030268314791137280"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030268322630320364",
+        "created_at": "2026-03-07T13:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030268322630320364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8lK64oQSn",
+              "end": 172,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2030268322630320364/photo/1",
+              "media_key": "3_2030268306343813121",
+              "start": 149,
+              "url": "https://t.co/M8lK64oQSn"
+            },
+            {
+              "display_url": "pic.x.com/M8lK64oQSn",
+              "end": 172,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2030268322630320364/photo/1",
+              "media_key": "3_2030268306834550784",
+              "start": 149,
+              "url": "https://t.co/M8lK64oQSn"
+            },
+            {
+              "display_url": "pic.x.com/M8lK64oQSn",
+              "end": 172,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2030268322630320364/photo/1",
+              "media_key": "3_2030268307736342528",
+              "start": 149,
+              "url": "https://t.co/M8lK64oQSn"
+            },
+            {
+              "display_url": "pic.x.com/M8lK64oQSn",
+              "end": 172,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2030268322630320364/photo/1",
+              "media_key": "3_2030268314791137280",
+              "start": 149,
+              "url": "https://t.co/M8lK64oQSn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030268322630320364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11547,
+          "like_count": 81,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "2026/2/27\n我收到一位即将被送入扭转机构的跨性别者求助。\n  凭借长期接触积这类学校的地址\n导致本能性的接锁定机构，展开救援\n\n有趣的是，该机构校长此前曾因非法囚禁跨性别被我组织多人抗议至校区关停损失惨重\n\n招致对方对方如今对我们极其恐惧\n所以本次从接到求助到将人安全接出仅用了两个小时… https://t.co/M8lK64oQSn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-25T17:23:26.000Z",
+        "description": "牛鬼蛇神，在座的就有！\n马克思列宁毛主义/托洛茨基主义︱无产阶级专政社会主义计划经济⚒️︱国际主义🇺🇳︱反帝反修︱🚩🏴 Ⓐ☭ 泛左翼联合︱抗中保台︱性少数平权🏳️‍🌈🏳️‍⚧️︱精神活性物质去罪化\n\n“你们要关心国家大事，要把无产阶级文化大革命进行到底！”",
+        "id": "2015475537507184640",
+        "location": "第一国际",
+        "name": "📕黒木トモコ☭🇻🇪🇺🇦🇵🇸🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016845757899558912/aH0m-6N6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 82,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 28
+        },
+        "username": "KUROKI___TOMOKO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3512,
+          "following_count": 1980,
+          "like_count": 1918,
+          "listed_count": 11,
+          "media_count": 351,
+          "tweet_count": 2286
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

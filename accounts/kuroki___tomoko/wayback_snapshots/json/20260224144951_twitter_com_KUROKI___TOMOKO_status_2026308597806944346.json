@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026306053751943168"
+      ]
+    },
+    "author_id": "2015475537507184640",
+    "conversation_id": "2026308597806944346",
+    "created_at": "2026-02-24T14:49:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T15:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026308597806944346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 148,
+          "id": "2022033209207427072",
+          "start": 138,
+          "username": "Jadengn1k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8JQg66tfV7",
+          "end": 172,
+          "expanded_url": "https://x.com/KUROKI___TOMOKO/status/2026308597806944346/photo/1",
+          "media_key": "3_2026306053751943168",
+          "start": 149,
+          "url": "https://t.co/8JQg66tfV7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026308597806944346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "您攻击的这个账号从未表示过自认精神日本人,从未支持并明确反对二战日本帝国主义,从未发表任何“支黑”言论或引用这个词；我不是HK人  没有表示过对反送中运动与香港独立一系列运动的任何态度；没有发脸发身体然后被「几个男的」吹捧的贴文存在\n您空穴来风的攻击让爱国同胞们如何是好？😌\n@Jadengn1k https://t.co/8JQg66tfV7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1829,
+        "media_key": "3_2026306053751943168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7inrwbsAAyuyR.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026306053751943168"
+          ]
+        },
+        "author_id": "2015475537507184640",
+        "conversation_id": "2026308597806944346",
+        "created_at": "2026-02-24T14:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026308597806944346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 148,
+              "id": "2022033209207427072",
+              "start": 138,
+              "username": "Jadengn1k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JQg66tfV7",
+              "end": 172,
+              "expanded_url": "https://x.com/KUROKI___TOMOKO/status/2026308597806944346/photo/1",
+              "media_key": "3_2026306053751943168",
+              "start": 149,
+              "url": "https://t.co/8JQg66tfV7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026308597806944346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "您攻击的这个账号从未表示过自认精神日本人,从未支持并明确反对二战日本帝国主义,从未发表任何“支黑”言论或引用这个词；我不是HK人  没有表示过对反送中运动与香港独立一系列运动的任何态度；没有发脸发身体然后被「几个男的」吹捧的贴文存在\n您空穴来风的攻击让爱国同胞们如何是好？😌\n@Jadengn1k https://t.co/8JQg66tfV7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-25T17:23:26.000Z",
+        "description": "牛鬼蛇神，在座的就有！\n马克思列宁毛主义/托洛茨基主义︱无产阶级专政社会主义计划经济⚒️︱国际主义🇺🇳︱反帝反修︱🚩🏴 Ⓐ☭ 泛左翼联合︱抗中保台︱性少数平权🏳️‍⚧️🏳️‍🌈︱精神活性物质去罪化\n\n“你们要关心国家大事，要把无产阶级文化大革命进行到底！”",
+        "id": "2015475537507184640",
+        "location": "第一国际",
+        "name": "📕黒木トモコ☭🇻🇪🇺🇦🇵🇸🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016845757899558912/aH0m-6N6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 88,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 25
+        },
+        "username": "KUROKI___TOMOKO",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T19:42:02.000Z",
+        "description": "",
+        "id": "2022033209207427072",
+        "name": "精日港猴被烧成烤肉前的幻想罢了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024867356326158336/KitlTYKY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 87
+        },
+        "username": "Jadengn1k",
+        "verified": false
+      }
+    ]
+  }
+}

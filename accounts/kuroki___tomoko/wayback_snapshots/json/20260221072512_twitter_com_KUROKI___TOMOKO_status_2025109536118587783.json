@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015475537507184640",
+    "conversation_id": "2025109536118587783",
+    "created_at": "2026-02-21T07:25:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025109536118587783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1974865605204586498",
+          "start": 3,
+          "username": "Krktmk_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025109536118587783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025108648155136228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Krktmk_8964: 我笑的好想死左圈是什么东西😌谁跟你混圈了过家家玩疯了别来贴我脸行不    只知道那种特别符合支黑对国人印象的    不读书不社会调查网左哥喜欢圈地自萌搞搞婆罗门和角色扮演，光格尔斯 雨晨浅夏就是老前辈  \n很喜欢这种的话应该多去加点q群当小众文…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015475537507184640",
+        "conversation_id": "2025109536118587783",
+        "created_at": "2026-02-21T07:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025109536118587783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1974865605204586498",
+              "start": 3,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025109536118587783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025108648155136228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Krktmk_8964: 我笑的好想死左圈是什么东西😌谁跟你混圈了过家家玩疯了别来贴我脸行不    只知道那种特别符合支黑对国人印象的    不读书不社会调查网左哥喜欢圈地自萌搞搞婆罗门和角色扮演，光格尔斯 雨晨浅夏就是老前辈  \n很喜欢这种的话应该多去加点q群当小众文…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2025108648155136228",
+        "created_at": "2026-02-21T07:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025108648155136228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KennyZhang5507…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/KennyZhang55071/status/2024966506212139202",
+              "start": 146,
+              "url": "https://t.co/QugIHjrNGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025108648155136228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024966506212139202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑的好想死左圈是什么东西😌谁跟你混圈了过家家玩疯了别来贴我脸行不    只知道那种特别符合支黑对国人印象的    不读书不社会调查网左哥喜欢圈地自萌搞搞婆罗门和角色扮演，光格尔斯 雨晨浅夏就是老前辈  \n很喜欢这种的话应该多去加点q群当小众文化玩而不是在这抛头露面到处咬人,这里没达瓦里氏 https://t.co/QugIHjrNGW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-25T17:23:26.000Z",
+        "description": "牛鬼蛇神，在座的就有！\n马克思列宁毛主义/托洛茨基主义︱无产阶级专政社会主义计划经济⚒️︱国际主义🇺🇳︱反帝反修︱🚩🏴 Ⓐ☭ 泛左翼联合︱抗中保台︱性少数平权🏳️‍⚧️🏳️‍🌈︱精神活性物质去罪化\n会发政经相关内容",
+        "id": "2015475537507184640",
+        "location": "第一国际",
+        "name": "📕黒木トモコ☭🇻🇪🇺🇦🇵🇸🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016845757899558912/aH0m-6N6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 82,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 23
+        },
+        "username": "KUROKI___TOMOKO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2016628139888431137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016867499816693760/cgM-POhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 1619,
+          "like_count": 28217,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 2995
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

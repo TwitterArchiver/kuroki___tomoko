@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2015475537507184640",
+    "conversation_id": "1934263122497544265",
+    "created_at": "2026-02-08T12:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T13:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020477268791906692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870687985605443584",
+          "start": 0,
+          "username": "Captainxiaobai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020477268791906692",
+    "in_reply_to_user_id": "1870687985605443584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934263122497544265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Captainxiaobai 继续革命，永不投降！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_1934263120182349824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtfiD0SbkAApkn_.jpg",
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015475537507184640",
+        "conversation_id": "1934263122497544265",
+        "created_at": "2026-02-08T12:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020477268791906692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870687985605443584",
+              "start": 0,
+              "username": "Captainxiaobai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020477268791906692",
+        "in_reply_to_user_id": "1870687985605443584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934263122497544265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Captainxiaobai 继续革命，永不投降！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934263120182349824"
+          ]
+        },
+        "author_id": "1870687985605443584",
+        "conversation_id": "1934263122497544265",
+        "created_at": "2025-06-15T14:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T15:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934263122497544265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jfSj3Z36jl",
+              "end": 23,
+              "expanded_url": "https://x.com/Captainxiaobai/status/1934263122497544265/photo/1",
+              "media_key": "3_1934263120182349824",
+              "start": 0,
+              "url": "https://t.co/jfSj3Z36jl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934263122497544265",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1591,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jfSj3Z36jl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-25T17:23:26.000Z",
+        "description": "牛鬼蛇神，在座的就有！\n马克思列宁毛主义/托洛茨基主义︱无产阶级国际主义︱反中修︱抗中保台︱性少数平权🏳️‍⚧️🏳️‍🌈︱精神活性物质去罪化\n会发政经相关内容\n\n@Krktmk_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Krktmk_8964"
+              }
+            ]
+          }
+        },
+        "id": "2015475537507184640",
+        "location": "第一国际",
+        "name": "📕黒木トモコ☭ 🇺🇦🇵🇸 🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016845757899558912/aH0m-6N6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 30,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "KUROKI___TOMOKO",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T04:29:21.000Z",
+        "description": "保守主义ʕᵔᴥᵔʔ，马克思列宁主义，毛泽东思想，威权左翼，反对黄赌毒，近代历史爱好者，反对恶俗，喜欢交流（欢迎朋友有美酒，恶俗敌人上铡刀）不爱骂人，喜欢永远的断头台。\n面对革命喜欢马拉的一句话“勇敢，勇敢，再勇敢！”\n正在编写《共产主义在中文互联网上的起飞》\n欢迎各位马列猫等左派及泛左派人士过来找我聊天",
+        "id": "1870687985605443584",
+        "name": "北海警戒号舰长小白",
+        "pinned_tweet_id": "1934263122497544265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870688376703361024/AnicbCw1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 266,
+          "like_count": 4994,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1177
+        },
+        "username": "Captainxiaobai",
+        "verified": false
+      }
+    ]
+  }
+}

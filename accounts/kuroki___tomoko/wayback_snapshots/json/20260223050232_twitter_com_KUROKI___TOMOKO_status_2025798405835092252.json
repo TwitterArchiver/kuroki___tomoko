@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025798364936482816"
+      ]
+    },
+    "author_id": "2015475537507184640",
+    "conversation_id": "2025798405835092252",
+    "created_at": "2026-02-23T05:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T06:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025798405835092252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "LeftValues is a left-wing spectrum political position test (Leftist Political Quiz). The left political ideology test is based on the 8Values political test. This site provides free online Left Values Test to accurately measure your left-wing political ideology and political value tendencies!",
+          "display_url": "8values.cc/leftvalues/int…",
+          "end": 23,
+          "expanded_url": "https://8values.cc/leftvalues/intro/",
+          "start": 0,
+          "status": 200,
+          "title": "LeftValues｜Left-wing political spectrum ideology test-8Values Quiz-Political Compass Test｜Ideological Test｜Political Inclination Test｜Political Spectrum Test",
+          "unwound_url": "https://8values.cc/leftvalues/intro/",
+          "url": "https://t.co/RRWsj5RDOz"
+        },
+        {
+          "display_url": "pic.x.com/Z3uLivZdLt",
+          "end": 47,
+          "expanded_url": "https://x.com/KUROKI___TOMOKO/status/2025798405835092252/photo/1",
+          "media_key": "3_2025798364936482816",
+          "start": 24,
+          "url": "https://t.co/Z3uLivZdLt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025798405835092252",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/RRWsj5RDOz https://t.co/Z3uLivZdLt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2025798364936482816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0U4TibMAABWMi.jpg",
+        "width": 566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025798364936482816"
+          ]
+        },
+        "author_id": "2015475537507184640",
+        "conversation_id": "2025798405835092252",
+        "created_at": "2026-02-23T05:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T06:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025798405835092252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "LeftValues is a left-wing spectrum political position test (Leftist Political Quiz). The left political ideology test is based on the 8Values political test. This site provides free online Left Values Test to accurately measure your left-wing political ideology and political value tendencies!",
+              "display_url": "8values.cc/leftvalues/int…",
+              "end": 23,
+              "expanded_url": "https://8values.cc/leftvalues/intro/",
+              "start": 0,
+              "status": 200,
+              "title": "LeftValues｜Left-wing political spectrum ideology test-8Values Quiz-Political Compass Test｜Ideological Test｜Political Inclination Test｜Political Spectrum Test",
+              "unwound_url": "https://8values.cc/leftvalues/intro/",
+              "url": "https://t.co/RRWsj5RDOz"
+            },
+            {
+              "display_url": "pic.x.com/Z3uLivZdLt",
+              "end": 47,
+              "expanded_url": "https://x.com/KUROKI___TOMOKO/status/2025798405835092252/photo/1",
+              "media_key": "3_2025798364936482816",
+              "start": 24,
+              "url": "https://t.co/Z3uLivZdLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025798405835092252",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RRWsj5RDOz https://t.co/Z3uLivZdLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-25T17:23:26.000Z",
+        "description": "牛鬼蛇神，在座的就有！\n马克思列宁毛主义/托洛茨基主义︱无产阶级专政社会主义计划经济⚒️︱国际主义🇺🇳︱反帝反修︱🚩🏴 Ⓐ☭ 泛左翼联合︱抗中保台︱性少数平权🏳️‍⚧️🏳️‍🌈︱精神活性物质去罪化\n会发政经相关内容",
+        "id": "2015475537507184640",
+        "location": "第一国际",
+        "name": "📕黒木トモコ☭🇻🇪🇺🇦🇵🇸🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016845757899558912/aH0m-6N6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 84,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 25
+        },
+        "username": "KUROKI___TOMOKO",
+        "verified": false
+      }
+    ]
+  }
+}
