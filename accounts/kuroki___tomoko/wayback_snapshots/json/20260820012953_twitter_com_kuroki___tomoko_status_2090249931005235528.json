@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2090230234339737746",
+    "created_at": "2026-08-20T01:29:53.000Z",
+    "display_text_range": [
+      8,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T02:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090249931005235528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1795232279733886976",
+          "start": 0,
+          "username": "AiXipi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090249931005235528",
+    "in_reply_to_user_id": "1795232279733886976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090230234339737746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiXipi 我主张补档了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5330,
+        "height": 358,
+        "media_key": "13_2090230218372026368",
+        "preview_image_url": "https://pbs.twimg.com/media/HQH9Tx7b0AAD49N.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090230218372026368/vid/avc1/268x358/6LlarIKH6I4YltBc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090230218372026368/pl/pM0E0n0gn55rGgSy.m3u8"
+          }
+        ],
+        "width": 268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2090230234339737746",
+        "created_at": "2026-08-20T01:29:53.000Z",
+        "display_text_range": [
+          8,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T02:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090249931005235528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1795232279733886976",
+              "start": 0,
+              "username": "AiXipi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090249931005235528",
+        "in_reply_to_user_id": "1795232279733886976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090230234339737746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiXipi 我主张补档了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090230218372026368"
+          ]
+        },
+        "author_id": "1795232279733886976",
+        "conversation_id": "2090230234339737746",
+        "created_at": "2026-08-20T00:11:37.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T01:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090230234339737746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5hvKKLfDlS",
+              "end": 32,
+              "expanded_url": "https://x.com/AiXipi/status/2090230234339737746/video/1",
+              "media_key": "13_2090230218372026368",
+              "start": 9,
+              "url": "https://t.co/5hvKKLfDlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090230234339737746",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090230218372026368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啵了勒个亲亲呀喵 https://t.co/5hvKKLfDlS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "is_identity_verified": false,
+        "location": "克拉斯诺亚尔斯克",
+        "most_recent_tweet_id": "2090249931005235528",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974865605204586498/1779803697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1639,
+          "following_count": 2971,
+          "like_count": 57055,
+          "listed_count": 2,
+          "media_count": 433,
+          "tweet_count": 5220
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T23:15:16.000Z",
+        "description": "性别随父，非常敏感不要搞我，非常不幸运，我错了，我真的很倒霉，很不好，我只是随便发发随便玩一下而已，对不起呀我真的很低脂呀只是随便发发，我真的错了，我真的没用，我活着浪费空气，死了浪费土地，我就不该活着，生下来就是个错误，活着没有一点价值，拜神拜佛，求求你别搞我，我真的很累很累很不想活，对我好点",
+        "id": "1795232279733886976",
+        "is_identity_verified": false,
+        "location": "监狱",
+        "most_recent_tweet_id": "2090230234339737746",
+        "name": "粉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795232279733886976/1786457658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088947096984719360/4z4N2mR-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 192,
+          "like_count": 3249,
+          "listed_count": 6,
+          "media_count": 31,
+          "tweet_count": 1105
+        },
+        "url": "",
+        "username": "AiXipi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

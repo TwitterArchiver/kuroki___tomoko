@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2083970102475608421",
+    "created_at": "2026-08-02T18:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T19:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083989501622514084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1610488344185827328",
+          "start": 0,
+          "username": "0MILiq3gsTl3W1V"
+        },
+        {
+          "end": 28,
+          "id": "2078188654632075264",
+          "start": 17,
+          "username": "X1aoyu_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083989501622514084",
+    "in_reply_to_user_id": "1610488344185827328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083977970717188544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0MILiq3gsTl3W1V @X1aoyu_qwq 截图别把我截进去 晦气死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2083977932641325057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvG42rW0AE9o9z.jpg",
+        "width": 1080
+      },
+      {
+        "height": 468,
+        "media_key": "3_2083977948445470720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvG5xjW8AAo758.jpg",
+        "width": 320
+      },
+      {
+        "height": 1071,
+        "media_key": "3_2083977957542858752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvG6TcWEAAK-57.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2083970102475608421",
+        "created_at": "2026-08-02T18:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083989501622514084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1610488344185827328",
+              "start": 0,
+              "username": "0MILiq3gsTl3W1V"
+            },
+            {
+              "end": 28,
+              "id": "2078188654632075264",
+              "start": 17,
+              "username": "X1aoyu_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083989501622514084",
+        "in_reply_to_user_id": "1610488344185827328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083977970717188544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0MILiq3gsTl3W1V @X1aoyu_qwq 截图别把我截进去 晦气死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083977932641325057",
+            "3_2083977948445470720",
+            "3_2083977957542858752"
+          ]
+        },
+        "author_id": "1610488344185827328",
+        "conversation_id": "2083970102475608421",
+        "created_at": "2026-08-02T18:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083977970717188544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2078188654632075264",
+              "start": 0,
+              "username": "X1aoyu_qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPqPNCIB7U",
+              "end": 130,
+              "expanded_url": "https://x.com/0MILiq3gsTl3W1V/status/2083977970717188544/photo/1",
+              "media_key": "3_2083977932641325057",
+              "start": 107,
+              "url": "https://t.co/uPqPNCIB7U"
+            },
+            {
+              "display_url": "pic.x.com/uPqPNCIB7U",
+              "end": 130,
+              "expanded_url": "https://x.com/0MILiq3gsTl3W1V/status/2083977970717188544/photo/1",
+              "media_key": "3_2083977948445470720",
+              "start": 107,
+              "url": "https://t.co/uPqPNCIB7U"
+            },
+            {
+              "display_url": "pic.x.com/uPqPNCIB7U",
+              "end": 130,
+              "expanded_url": "https://x.com/0MILiq3gsTl3W1V/status/2083977970717188544/photo/1",
+              "media_key": "3_2083977957542858752",
+              "start": 107,
+              "url": "https://t.co/uPqPNCIB7U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083977970717188544",
+        "in_reply_to_user_id": "2078188654632075264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083975867311571451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X1aoyu_qwq 我不行了，这条蠢猪还看不懂自己的关注列表了，笑抽我了，我要睡觉了，以后要逗猴子就来着吧。截图把它id遮住就认不得了……看清楚了吗，有没有自己名字？是不是following?傻逼慢慢看吧🤣🤗 https://t.co/uPqPNCIB7U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 2988,
+          "like_count": 56073,
+          "listed_count": 2,
+          "media_count": 414,
+          "tweet_count": 5102
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-04T04:08:58.000Z",
+        "description": "",
+        "id": "1610488344185827328",
+        "location": "Central People of China(UIN)",
+        "name": "多伦多小丑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634149468504457217/OvT6EtgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 7,
+          "like_count": 646,
+          "listed_count": 5,
+          "media_count": 202,
+          "tweet_count": 1297
+        },
+        "url": "",
+        "username": "0MILiq3gsTl3W1V",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-17T18:43:32.000Z",
+        "description": "EN/DE/FR/CN｜📍徳國｜可以叫我xiaoyu｜pink往左激女男權出门左拐｜随缘接盒｜歡迎互fo^^🇹🇼🇯🇵🇩🇪\n是從前的那個小鈺喵 帰ってきた ⩌⩊⩌",
+        "id": "2078188654632075264",
+        "location": "离中南海8964m",
+        "name": "你抱著我掉眼淚說這世界太複雜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078189007888883712/1OsrPOzK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 28,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "X1aoyu_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

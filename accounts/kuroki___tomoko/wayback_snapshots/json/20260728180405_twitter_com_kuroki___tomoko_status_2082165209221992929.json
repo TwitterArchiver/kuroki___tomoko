@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082165171930517504"
+      ]
+    },
+    "author_id": "1974865605204586498",
+    "conversation_id": "2082165209221992929",
+    "created_at": "2026-07-28T18:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T19:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082165209221992929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/08dWdVxXi1",
+          "end": 36,
+          "expanded_url": "https://x.com/kuroki___tomoko/status/2082165209221992929/photo/1",
+          "media_key": "3_2082165171930517504",
+          "start": 13,
+          "url": "https://t.co/08dWdVxXi1"
+        },
+        {
+          "display_url": "x.com/kuroki___tomok…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/kuroki___tomoko/status/2081741132632068508",
+          "start": 37,
+          "url": "https://t.co/7cQLuwI3jg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082165209221992929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081741132632068508",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "反而呢，被认真的回礼了呀 https://t.co/08dWdVxXi1 https://t.co/7cQLuwI3jg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2082165171930517504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVWMSyb0AAZkN2.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1743,
+        "media_key": "3_2081739554667868161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPTGG7bsAEKmnS.jpg",
+        "width": 855
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082165171930517504"
+          ]
+        },
+        "author_id": "1974865605204586498",
+        "conversation_id": "2082165209221992929",
+        "created_at": "2026-07-28T18:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082165209221992929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/08dWdVxXi1",
+              "end": 36,
+              "expanded_url": "https://x.com/kuroki___tomoko/status/2082165209221992929/photo/1",
+              "media_key": "3_2082165171930517504",
+              "start": 13,
+              "url": "https://t.co/08dWdVxXi1"
+            },
+            {
+              "display_url": "x.com/kuroki___tomok…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/kuroki___tomoko/status/2081741132632068508",
+              "start": 37,
+              "url": "https://t.co/7cQLuwI3jg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082165209221992929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081741132632068508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反而呢，被认真的回礼了呀 https://t.co/08dWdVxXi1 https://t.co/7cQLuwI3jg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081739554667868161"
+          ]
+        },
+        "author_id": "1974865605204586498",
+        "conversation_id": "2081741132632068508",
+        "created_at": "2026-07-27T13:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081741132632068508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5c0z39h9G2",
+              "end": 41,
+              "expanded_url": "https://x.com/kuroki___tomoko/status/2081741132632068508/photo/1",
+              "media_key": "3_2081739554667868161",
+              "start": 18,
+              "url": "https://t.co/5c0z39h9G2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081741132632068508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1280,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这么拿系度的钱给朋友送备用机… https://t.co/5c0z39h9G2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 2985,
+          "like_count": 55791,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 5046
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      }
+    ]
+  }
+}

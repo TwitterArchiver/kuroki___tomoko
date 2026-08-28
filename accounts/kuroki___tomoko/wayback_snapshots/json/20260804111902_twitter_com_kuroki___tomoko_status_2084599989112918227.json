@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084599264303529984"
+      ]
+    },
+    "author_id": "1974865605204586498",
+    "conversation_id": "2084599989112918227",
+    "created_at": "2026-08-04T11:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084599989112918227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O36IYv94BQ",
+          "end": 58,
+          "expanded_url": "https://x.com/kuroki___tomoko/status/2084599989112918227/photo/1",
+          "media_key": "3_2084599264303529984",
+          "start": 35,
+          "url": "https://t.co/O36IYv94BQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084599989112918227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给最刻薄最清醒之人杯子姐账号上三柱🙏🙏💖\n女神在抖音卖肉也生意兴隆呀 https://t.co/O36IYv94BQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 308,
+        "media_key": "3_2084599264303529984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO37_HfaQAA4hjn.jpg",
+        "width": 351
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084599264303529984"
+          ]
+        },
+        "author_id": "1974865605204586498",
+        "conversation_id": "2084599989112918227",
+        "created_at": "2026-08-04T11:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084599989112918227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O36IYv94BQ",
+              "end": 58,
+              "expanded_url": "https://x.com/kuroki___tomoko/status/2084599989112918227/photo/1",
+              "media_key": "3_2084599264303529984",
+              "start": 35,
+              "url": "https://t.co/O36IYv94BQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084599989112918227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给最刻薄最清醒之人杯子姐账号上三柱🙏🙏💖\n女神在抖音卖肉也生意兴隆呀 https://t.co/O36IYv94BQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 2987,
+          "like_count": 56216,
+          "listed_count": 2,
+          "media_count": 414,
+          "tweet_count": 5110
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082910243777048576",
+        "3_2082910243789643776",
+        "3_2082910243756072960"
+      ]
+    },
+    "author_id": "1974865605204586498",
+    "conversation_id": "2082910254300647856",
+    "created_at": "2026-07-30T19:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T20:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082910254300647856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4HGiW2GrJK",
+          "end": 37,
+          "expanded_url": "https://x.com/kuroki___tomoko/status/2082910254300647856/photo/1",
+          "media_key": "3_2082910243777048576",
+          "start": 14,
+          "url": "https://t.co/4HGiW2GrJK"
+        },
+        {
+          "display_url": "pic.x.com/4HGiW2GrJK",
+          "end": 37,
+          "expanded_url": "https://x.com/kuroki___tomoko/status/2082910254300647856/photo/1",
+          "media_key": "3_2082910243789643776",
+          "start": 14,
+          "url": "https://t.co/4HGiW2GrJK"
+        },
+        {
+          "display_url": "pic.x.com/4HGiW2GrJK",
+          "end": 37,
+          "expanded_url": "https://x.com/kuroki___tomoko/status/2082910254300647856/photo/1",
+          "media_key": "3_2082910243756072960",
+          "start": 14,
+          "url": "https://t.co/4HGiW2GrJK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082910254300647856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发什么都没事  我无聊爱看 https://t.co/4HGiW2GrJK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2174,
+        "media_key": "3_2082910243777048576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOf71LtacAAl84-.jpg",
+        "width": 1020
+      },
+      {
+        "height": 2170,
+        "media_key": "3_2082910243789643776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOf71LwaoAA4G_j.jpg",
+        "width": 1020
+      },
+      {
+        "height": 2172,
+        "media_key": "3_2082910243756072960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOf71LoaYAA-a7L.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082910243777048576",
+            "3_2082910243789643776",
+            "3_2082910243756072960"
+          ]
+        },
+        "author_id": "1974865605204586498",
+        "conversation_id": "2082910254300647856",
+        "created_at": "2026-07-30T19:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T20:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082910254300647856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4HGiW2GrJK",
+              "end": 37,
+              "expanded_url": "https://x.com/kuroki___tomoko/status/2082910254300647856/photo/1",
+              "media_key": "3_2082910243777048576",
+              "start": 14,
+              "url": "https://t.co/4HGiW2GrJK"
+            },
+            {
+              "display_url": "pic.x.com/4HGiW2GrJK",
+              "end": 37,
+              "expanded_url": "https://x.com/kuroki___tomoko/status/2082910254300647856/photo/1",
+              "media_key": "3_2082910243789643776",
+              "start": 14,
+              "url": "https://t.co/4HGiW2GrJK"
+            },
+            {
+              "display_url": "pic.x.com/4HGiW2GrJK",
+              "end": 37,
+              "expanded_url": "https://x.com/kuroki___tomoko/status/2082910254300647856/photo/1",
+              "media_key": "3_2082910243756072960",
+              "start": 14,
+              "url": "https://t.co/4HGiW2GrJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082910254300647856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发什么都没事  我无聊爱看 https://t.co/4HGiW2GrJK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 2987,
+          "like_count": 55990,
+          "listed_count": 2,
+          "media_count": 412,
+          "tweet_count": 5072
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      }
+    ]
+  }
+}

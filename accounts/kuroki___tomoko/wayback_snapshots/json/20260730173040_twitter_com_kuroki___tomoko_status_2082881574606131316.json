@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2082850923676831888",
+    "created_at": "2026-07-30T17:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T18:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082881574606131316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818942029956825088",
+          "start": 0,
+          "username": "Nissan2027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082881574606131316",
+    "in_reply_to_user_id": "1818942029956825088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082850923676831888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nissan2027 见到人就意淫人家又做什么事大富大贵了干嫉妒气自己，感觉你像现生真的很失败的中年大叔那样诶   有很多女孩呢靠收门槛就赚了很多钱根本不会说努力生活什么的让你刷到呀，你实在见不得别人好可以学着点去卖钩子，不用在这里满嘴喷精液"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2082850915305009152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfF3z7aMAAdhZn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2082850923676831888",
+        "created_at": "2026-07-30T17:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082881574606131316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818942029956825088",
+              "start": 0,
+              "username": "Nissan2027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082881574606131316",
+        "in_reply_to_user_id": "1818942029956825088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082850923676831888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nissan2027 见到人就意淫人家又做什么事大富大贵了干嫉妒气自己，感觉你像现生真的很失败的中年大叔那样诶   有很多女孩呢靠收门槛就赚了很多钱根本不会说努力生活什么的让你刷到呀，你实在见不得别人好可以学着点去卖钩子，不用在这里满嘴喷精液"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082850915305009152"
+          ]
+        },
+        "author_id": "1818942029956825088",
+        "conversation_id": "2082850923676831888",
+        "created_at": "2026-07-30T15:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082850923676831888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l5g4u7HRVP",
+              "end": 111,
+              "expanded_url": "https://x.com/Nissan2027/status/2082850923676831888/photo/1",
+              "media_key": "3_2082850915305009152",
+              "start": 88,
+              "url": "https://t.co/l5g4u7HRVP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082850923676831888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特上真的很多这种婊子，\n出来卖没人说你什么，赚钱嘛可以理解。\n一边挂着收款码网络乞讨，放🚪出去卖，一边还标榜自己在努力生活？？\n妈的，那些努力生活洁身自好的女孩做错了什么？ https://t.co/l5g4u7HRVP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 2982,
+          "like_count": 55969,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 5070
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T09:29:15.000Z",
+        "description": "nothing",
+        "id": "1818942029956825088",
+        "location": "0.01km",
+        "name": "Hiding",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082825532610396161/OVprOSwO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "Nissan2027",
+        "verified": true
+      }
+    ]
+  }
+}

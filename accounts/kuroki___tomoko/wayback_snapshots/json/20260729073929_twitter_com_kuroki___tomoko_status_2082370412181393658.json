@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2082178276207063125",
+    "created_at": "2026-07-29T07:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082370412181393658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1734920570406658048",
+          "start": 0,
+          "username": "rreyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082370412181393658",
+    "in_reply_to_user_id": "1734920570406658048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082368596777541710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rreyue 日版挺有收藏价值的呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2082178276207063125",
+        "created_at": "2026-07-29T07:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082370412181393658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1734920570406658048",
+              "start": 0,
+              "username": "rreyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082370412181393658",
+        "in_reply_to_user_id": "1734920570406658048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082368596777541710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rreyue 日版挺有收藏价值的呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734920570406658048",
+        "conversation_id": "2082178276207063125",
+        "created_at": "2026-07-29T07:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082368596777541710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "kuroki___tomoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082368596777541710",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082178276207063125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroki___tomoko 我之前买这个买成日语的然后尘封了🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 2989,
+          "like_count": 55818,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 5059
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T12:58:00.000Z",
+        "description": "推特言行请勿带入现实与我谈论",
+        "id": "1734920570406658048",
+        "location": "贝加尔湖",
+        "name": "光明心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070960697325113344/-WGNM489_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 39,
+          "like_count": 3642,
+          "listed_count": 1,
+          "media_count": 512,
+          "tweet_count": 1781
+        },
+        "url": "",
+        "username": "rreyue",
+        "verified": false
+      }
+    ]
+  }
+}

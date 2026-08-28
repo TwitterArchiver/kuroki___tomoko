@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2088263467497345076",
+    "created_at": "2026-08-14T13:57:24.000Z",
+    "display_text_range": [
+      8,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T14:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088263722833969339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1795232279733886976",
+          "start": 0,
+          "username": "AiXipi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088263722833969339",
+    "in_reply_to_user_id": "1795232279733886976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088263467497345076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiXipi 老公"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2088263467497345076",
+        "created_at": "2026-08-14T13:57:24.000Z",
+        "display_text_range": [
+          8,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088263722833969339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1795232279733886976",
+              "start": 0,
+              "username": "AiXipi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088263722833969339",
+        "in_reply_to_user_id": "1795232279733886976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088263467497345076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiXipi 老公"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795232279733886976",
+        "conversation_id": "2088263467497345076",
+        "created_at": "2026-08-14T13:56:23.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088263467497345076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1974865605204586498",
+              "start": 4,
+              "username": "kuroki___tomoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088263467497345076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃西瓜和@kuroki___tomoko"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "is_identity_verified": false,
+        "location": "克拉斯诺亚尔斯克",
+        "most_recent_tweet_id": "2088263722833969339",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974865605204586498/1779803697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 3006,
+          "like_count": 56805,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 5183
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T23:15:16.000Z",
+        "description": "The good life 不懂事随便发着玩\n性别随父Q2723417300来扩列吧",
+        "id": "1795232279733886976",
+        "is_identity_verified": false,
+        "location": "监狱",
+        "most_recent_tweet_id": "2088263467497345076",
+        "name": "粉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795232279733886976/1786457658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087180762307248128/pbJLjBYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 192,
+          "like_count": 3191,
+          "listed_count": 6,
+          "media_count": 34,
+          "tweet_count": 1078
+        },
+        "url": "",
+        "username": "AiXipi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

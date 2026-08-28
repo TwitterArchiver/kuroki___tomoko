@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083985373261373440"
+      ]
+    },
+    "author_id": "1974865605204586498",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083832370315358398",
+    "created_at": "2026-08-02T18:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T19:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083985424587084069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774410859491799041",
+          "start": 0,
+          "username": "kiwi_03096"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8XnacqCosg",
+          "end": 41,
+          "expanded_url": "https://x.com/kuroki___tomoko/status/2083985424587084069/photo/1",
+          "media_key": "3_2083985373261373440",
+          "start": 18,
+          "url": "https://t.co/8XnacqCosg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083985424587084069",
+    "in_reply_to_user_id": "1774410859491799041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083832370315358398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiwi_03096 树上的忍者 https://t.co/8XnacqCosg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1189,
+        "media_key": "3_2083985373261373440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvNp9JaoAAn066.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083832342821662720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtCeaVa8AA6RIG.jpg",
+        "width": 1544
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083832342754549760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtCeaFa4AAtyr9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083832342796554240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtCeaPb0AAq6e2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083832342754562048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtCeaFbEAAatxi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083985373261373440"
+          ]
+        },
+        "author_id": "1974865605204586498",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083832370315358398",
+        "created_at": "2026-08-02T18:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083985424587084069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774410859491799041",
+              "start": 0,
+              "username": "kiwi_03096"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8XnacqCosg",
+              "end": 41,
+              "expanded_url": "https://x.com/kuroki___tomoko/status/2083985424587084069/photo/1",
+              "media_key": "3_2083985373261373440",
+              "start": 18,
+              "url": "https://t.co/8XnacqCosg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083985424587084069",
+        "in_reply_to_user_id": "1774410859491799041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083832370315358398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiwi_03096 树上的忍者 https://t.co/8XnacqCosg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083832342821662720",
+            "3_2083832342754549760",
+            "3_2083832342796554240",
+            "3_2083832342754562048"
+          ]
+        },
+        "author_id": "1774410859491799041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083832370315358398",
+        "created_at": "2026-08-02T08:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083832370315358398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fnKJoE5z0C",
+              "end": 33,
+              "expanded_url": "https://x.com/kiwi_03096/status/2083832370315358398/photo/1",
+              "media_key": "3_2083832342821662720",
+              "start": 10,
+              "url": "https://t.co/fnKJoE5z0C"
+            },
+            {
+              "display_url": "pic.x.com/fnKJoE5z0C",
+              "end": 33,
+              "expanded_url": "https://x.com/kiwi_03096/status/2083832370315358398/photo/1",
+              "media_key": "3_2083832342754549760",
+              "start": 10,
+              "url": "https://t.co/fnKJoE5z0C"
+            },
+            {
+              "display_url": "pic.x.com/fnKJoE5z0C",
+              "end": 33,
+              "expanded_url": "https://x.com/kiwi_03096/status/2083832370315358398/photo/1",
+              "media_key": "3_2083832342796554240",
+              "start": 10,
+              "url": "https://t.co/fnKJoE5z0C"
+            },
+            {
+              "display_url": "pic.x.com/fnKJoE5z0C",
+              "end": 33,
+              "expanded_url": "https://x.com/kiwi_03096/status/2083832370315358398/photo/1",
+              "media_key": "3_2083832342754562048",
+              "start": 10,
+              "url": "https://t.co/fnKJoE5z0C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083832370315358398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4168,
+          "like_count": 142,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "生命中唯一的女主角 https://t.co/fnKJoE5z0C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 2988,
+          "like_count": 56070,
+          "listed_count": 2,
+          "media_count": 414,
+          "tweet_count": 5103
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T12:18:22.000Z",
+        "description": "世界上的另一个我自己@aldn126633\n喜欢每一个喜欢我的人！！！谢谢谢谢谢谢谢谢\n🚪66 想看我出哪个角色可以和我说我尽力",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "aldn126633"
+              }
+            ]
+          }
+        },
+        "id": "1774410859491799041",
+        "location": "天堂",
+        "name": "kiwi_0309",
+        "pinned_tweet_id": "2078026673224839649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007447161626341376/LKnNTTGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14406,
+          "following_count": 206,
+          "like_count": 3123,
+          "listed_count": 39,
+          "media_count": 363,
+          "tweet_count": 1805
+        },
+        "url": "",
+        "username": "kiwi_03096",
+        "verified": false
+      }
+    ]
+  }
+}

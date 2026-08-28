@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2084380982069842322",
+    "created_at": "2026-08-03T20:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T21:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084380982069842322"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuroki___tomok…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/kuroki___tomoko/status/2084322747744977021",
+          "start": 72,
+          "url": "https://t.co/EPYCi0isf2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084380982069842322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084322747744977021",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "判断是NDMA受体全新GABA_A没有被抑制  所以药粉被吸到了前庭接触不到鼻黏膜是药效四十分钟消失的原因💖这只是一次普通的bad trip呀 https://t.co/EPYCi0isf2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2084380982069842322",
+        "created_at": "2026-08-03T20:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T21:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084380982069842322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuroki___tomok…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/kuroki___tomoko/status/2084322747744977021",
+              "start": 72,
+              "url": "https://t.co/EPYCi0isf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084380982069842322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084322747744977021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "判断是NDMA受体全新GABA_A没有被抑制  所以药粉被吸到了前庭接触不到鼻黏膜是药效四十分钟消失的原因💖这只是一次普通的bad trip呀 https://t.co/EPYCi0isf2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2084322747744977021",
+        "created_at": "2026-08-03T16:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084322747744977021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084322747744977021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼻吸棉花糖30mg   对我来说这是重新抱有好好对待生活决心的奇迹作战"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 2985,
+          "like_count": 56089,
+          "listed_count": 2,
+          "media_count": 414,
+          "tweet_count": 5108
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2087942916195107292",
+    "created_at": "2026-08-13T16:42:37.000Z",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087942916195107292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/UWATCHLIFE/sta…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/UWATCHLIFE/status/2087849459011252696",
+          "start": 143,
+          "url": "https://t.co/khJCQDQ22D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087942916195107292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087849459011252696",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "三角枫捅的人是当事人口述吗？除了一张辨认不了是她被制服的照片没刷到和她相关的图文   三角枫自己被严重的ADHD困扰，激越和攻击性行为完全会因为精神疾病和人格偏执导致，同时也根本不存在她当天吃过什么药的证明\n你们这些完全不关心当事人的不要再借着跨性别 药滥这种不相关的话题炒作事件了！ https://t.co/khJCQDQ22D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2087942916195107292",
+        "created_at": "2026-08-13T16:42:37.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087942916195107292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UWATCHLIFE/sta…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/UWATCHLIFE/status/2087849459011252696",
+              "start": 143,
+              "url": "https://t.co/khJCQDQ22D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087942916195107292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087849459011252696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三角枫捅的人是当事人口述吗？除了一张辨认不了是她被制服的照片没刷到和她相关的图文   三角枫自己被严重的ADHD困扰，激越和攻击性行为完全会因为精神疾病和人格偏执导致，同时也根本不存在她当天吃过什么药的证明\n你们这些完全不关心当事人的不要再借着跨性别 药滥这种不相关的话题炒作事件了！ https://t.co/khJCQDQ22D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2087477705633890351",
+        "created_at": "2026-08-13T10:31:16.000Z",
+        "display_text_range": [
+          14,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087849459011252696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1802704441961017344",
+              "start": 0,
+              "username": "misumikaede3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087849459011252696",
+        "in_reply_to_user_id": "1802704441961017344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 673,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087477705633890351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misumikaede3 sjf目前无法解释，由本壬声明ao力\n当时当事壬没OD，很简单，除了冰棍在群里的一句话还有可信的源头吗？并且越传反而越增加细节，一开始冰棍书有可能O了D，后来便乘o普瑞又派生出o加巴\n当事壬本身就精神疾病才事真正可能的原因不事吗？某些畜生造谣时顺便还把跨女都OD的谣言挂嘴边，实在事司马昭之心。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "is_identity_verified": false,
+        "location": "克拉斯诺亚尔斯克",
+        "most_recent_tweet_id": "2087942916195107292",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974865605204586498/1779803697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 2999,
+          "like_count": 56656,
+          "listed_count": 2,
+          "media_count": 423,
+          "tweet_count": 5148
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "is_identity_verified": false,
+        "location": "三浦海峡",
+        "most_recent_tweet_id": "2087853620750582063",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044496192734666752/1776281725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 164,
+          "like_count": 1919,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1214
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2083280678456873019",
+    "created_at": "2026-07-31T19:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T20:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083280678456873019"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083280678456873019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我我想给朋友存一点氯硝和曲唑酮还有别的，我这两天晚上全部停药了，但是呢我一直好兴奋好焦虑像美金刚bad trip，有点不酥糊我现在就好想去狂吃氯硝   额这个药没有很抗焦虑的感觉但是睡觉什么的也很好啊   就是虽然是我一厢情愿在攒药但是确实好难受，我不会后悔的呀   嗯我有点那啥担心自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2083280678456873019",
+        "created_at": "2026-07-31T19:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T20:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083280678456873019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083280678456873019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我我想给朋友存一点氯硝和曲唑酮还有别的，我这两天晚上全部停药了，但是呢我一直好兴奋好焦虑像美金刚bad trip，有点不酥糊我现在就好想去狂吃氯硝   额这个药没有很抗焦虑的感觉但是睡觉什么的也很好啊   就是虽然是我一厢情愿在攒药但是确实好难受，我不会后悔的呀   嗯我有点那啥担心自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 2994,
+          "like_count": 56040,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 5090
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      }
+    ]
+  }
+}

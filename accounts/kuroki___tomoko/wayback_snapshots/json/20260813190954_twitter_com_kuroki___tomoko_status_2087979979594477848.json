@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2087580498113745176",
+    "created_at": "2026-08-13T19:09:54.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T20:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087979979594477848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2072676485396381696",
+          "start": 0,
+          "username": "cheatcat2005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087979979594477848",
+    "in_reply_to_user_id": "2072676485396381696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087580498113745176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheatcat2005 黑幕我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_2087580485472112640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPiTZByaUAAGwYO.jpg",
+        "width": 1544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2087580498113745176",
+        "created_at": "2026-08-13T19:09:54.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087979979594477848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2072676485396381696",
+              "start": 0,
+              "username": "cheatcat2005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087979979594477848",
+        "in_reply_to_user_id": "2072676485396381696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087580498113745176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheatcat2005 黑幕我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087580485472112640"
+          ]
+        },
+        "author_id": "2072676485396381696",
+        "conversation_id": "2087580498113745176",
+        "created_at": "2026-08-12T16:42:30.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087580498113745176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fPg6QXZUEG",
+              "end": 104,
+              "expanded_url": "https://x.com/cheatcat2005/status/2087580498113745176/photo/1",
+              "media_key": "3_2087580485472112640",
+              "start": 81,
+              "url": "https://t.co/fPg6QXZUEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087580498113745176",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087580485472112640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 212,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "伊甸食堂开业啦！！\n\n点赞，转发，评论此贴的。抽三个人，一等奖一份飘飘糖，二等奖两份冰雹😋😋\n\n日期截止下个星期（既8月20日）\n\n注：此贴仅为分享戒药戒毒体验 https://t.co/fPg6QXZUEG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "is_identity_verified": false,
+        "location": "克拉斯诺亚尔斯克",
+        "most_recent_tweet_id": "2087979979594477848",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974865605204586498/1779803697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 3000,
+          "like_count": 56691,
+          "listed_count": 2,
+          "media_count": 423,
+          "tweet_count": 5157
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-02T13:40:29.000Z",
+        "description": "Choose Life. Choose a job. Choose a career. Choose a family. Choose a fxxking big television.  Choose a starter home. Choose your friends.",
+        "id": "2072676485396381696",
+        "is_identity_verified": false,
+        "location": "牯岭街",
+        "most_recent_tweet_id": "2087590064398430342",
+        "name": "伊甸园Lab(分享戒药戒毒体验)",
+        "pinned_tweet_id": "2087576559502954754",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072676485396381696/1782999924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087553888400691200/VqYcjUxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 14,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "cheatcat2005",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

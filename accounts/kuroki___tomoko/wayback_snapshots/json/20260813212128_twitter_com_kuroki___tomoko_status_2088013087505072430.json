@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2088010322137452574",
+    "created_at": "2026-08-13T21:21:28.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T22:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088013087505072430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491368400924422149",
+          "start": 0,
+          "username": "Taffydaisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088013087505072430",
+    "in_reply_to_user_id": "1491368400924422149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088012284115427743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taffydaisuki 谢谢你呀…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2088010322137452574",
+        "created_at": "2026-08-13T21:21:28.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088013087505072430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491368400924422149",
+              "start": 0,
+              "username": "Taffydaisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088013087505072430",
+        "in_reply_to_user_id": "1491368400924422149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088012284115427743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taffydaisuki 谢谢你呀…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491368400924422149",
+        "conversation_id": "2088010322137452574",
+        "created_at": "2026-08-13T21:18:16.000Z",
+        "display_text_range": [
+          17,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088012284115427743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "kuroki___tomoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088012284115427743",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088010322137452574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroki___tomoko 是我呦\n我在墻內的全網通用名Ace_晓空🐱☺️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "is_identity_verified": false,
+        "location": "克拉斯诺亚尔斯克",
+        "most_recent_tweet_id": "2088013087505072430",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974865605204586498/1779803697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 3002,
+          "like_count": 56722,
+          "listed_count": 2,
+          "media_count": 425,
+          "tweet_count": 5170
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-09T11:08:43.000Z",
+        "description": "精神台巴子🇹🇼夢想南極旅遊/漢族人妖🏳️‍⚧️/喜歡一切巧克力和鹹甜碳水🍰/Vtuber重度依賴主推塔菲七海蓮蓮/🇯🇵廣島在留/ㄆㄥˊㄧㄡˇ@bakajinping @ln_fbsq @DOUDEMOII_y92z0 @lyb1007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "bakajinping"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "ln_fbsq"
+              },
+              {
+                "end": 108,
+                "start": 92,
+                "username": "DOUDEMOII_y92z0"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "lyb1007"
+              }
+            ]
+          }
+        },
+        "id": "1491368400924422149",
+        "is_identity_verified": false,
+        "location": "🇨🇳中國大陸人/CN/JP/EN",
+        "most_recent_tweet_id": "2088012284115427743",
+        "name": "🍫空酱🍥",
+        "pinned_tweet_id": "2068595415705170165",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491368400924422149/1784404602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085102860627533824/uDgXx2ct_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 665,
+          "like_count": 29572,
+          "listed_count": 0,
+          "media_count": 829,
+          "tweet_count": 6749
+        },
+        "url": "",
+        "username": "Taffydaisuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

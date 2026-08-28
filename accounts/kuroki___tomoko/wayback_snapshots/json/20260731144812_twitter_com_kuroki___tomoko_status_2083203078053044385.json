@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2083199901660524994",
+    "created_at": "2026-07-31T14:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083203078053044385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2032057625643528192",
+          "start": 0,
+          "username": "towakawaii0307"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083203078053044385",
+    "in_reply_to_user_id": "2032057625643528192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083199901660524994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@towakawaii0307 我靠，好诡异啊，我在这里发的上一句话被我一个互关点赞了。额？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2083199901660524994",
+        "created_at": "2026-07-31T14:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083203078053044385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2032057625643528192",
+              "start": 0,
+              "username": "towakawaii0307"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083203078053044385",
+        "in_reply_to_user_id": "2032057625643528192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083199901660524994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@towakawaii0307 我靠，好诡异啊，我在这里发的上一句话被我一个互关点赞了。额？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032057625643528192",
+        "conversation_id": "2083199901660524994",
+        "created_at": "2026-07-31T14:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083199901660524994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/spaces/1aKbd…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1aKbddgjgQRJX",
+              "start": 0,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://twitter.com/i/spaces/1aKbddgjgQRJX/peek",
+              "url": "https://t.co/gsEsPTx7xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083199901660524994",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gsEsPTx7xl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 2986,
+          "like_count": 55993,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 5079
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T11:34:42.000Z",
+        "description": "#ikutowa #reito",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "ikutowa"
+              },
+              {
+                "end": 15,
+                "start": 9,
+                "tag": "reito"
+              }
+            ]
+          }
+        },
+        "id": "2032057625643528192",
+        "name": "Tok Ou",
+        "pinned_tweet_id": "2078503617204822108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043728418278416384/LvBCGpUp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 99,
+          "like_count": 8949,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 2797
+        },
+        "url": "",
+        "username": "towakawaii0307",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2086741765437190204",
+    "created_at": "2026-08-11T08:14:55.000Z",
+    "display_text_range": [
+      8,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087090369955865062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1795232279733886976",
+          "start": 0,
+          "username": "AiXipi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087090369955865062",
+    "in_reply_to_user_id": "1795232279733886976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086745920146919775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiXipi 和家里吵架闹掰离家出走之类的   沟通不了反正就做这些事吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2086741765437190204",
+        "created_at": "2026-08-11T08:14:55.000Z",
+        "display_text_range": [
+          8,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087090369955865062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1795232279733886976",
+              "start": 0,
+              "username": "AiXipi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087090369955865062",
+        "in_reply_to_user_id": "1795232279733886976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086745920146919775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiXipi 和家里吵架闹掰离家出走之类的   沟通不了反正就做这些事吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795232279733886976",
+        "conversation_id": "2086741765437190204",
+        "created_at": "2026-08-10T09:26:11.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T10:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086745920146919775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "kuroki___tomoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086745920146919775",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086741765437190204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroki___tomoko 求教程"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "is_identity_verified": false,
+        "location": "克拉斯诺亚尔斯克",
+        "most_recent_tweet_id": "2087090369955865062",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974865605204586498/1779803697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 2986,
+          "like_count": 56489,
+          "listed_count": 2,
+          "media_count": 421,
+          "tweet_count": 5139
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T23:15:16.000Z",
+        "description": "性别随父",
+        "id": "1795232279733886976",
+        "is_identity_verified": false,
+        "location": "监狱",
+        "most_recent_tweet_id": "2086797956708229405",
+        "name": "粉",
+        "pinned_tweet_id": "2027860422033084796",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795232279733886976/1769799814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080796563748827136/mZ0ZRfqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1633,
+          "following_count": 203,
+          "like_count": 3143,
+          "listed_count": 6,
+          "media_count": 30,
+          "tweet_count": 1046
+        },
+        "url": "",
+        "username": "AiXipi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

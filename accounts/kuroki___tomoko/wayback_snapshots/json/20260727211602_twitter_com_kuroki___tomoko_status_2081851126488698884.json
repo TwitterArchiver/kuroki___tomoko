@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2081804234077724886",
+    "created_at": "2026-07-27T21:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T22:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081851126488698884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911559713893822464",
+          "start": 0,
+          "username": "vw50qucaobi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081851126488698884",
+    "in_reply_to_user_id": "1911559713893822464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081843954346299595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vw50qucaobi 手上有没有疤是自己的事，到底哪来的一个仅有一点生理特征相同，于是需要被统一审视统一霸凌的人群？只有自己迫不及待在社会地位上阿Q式精神霸凌的人会站在庸俗道德和自觉排斥认知以外事物的立场上，主动抛弃大脑不去正确认知他人，人为建构这种用于统一歧视的人群去不知所云的在明示暗示中伤他人😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2081804234077724886",
+        "created_at": "2026-07-27T21:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T22:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081851126488698884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911559713893822464",
+              "start": 0,
+              "username": "vw50qucaobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081851126488698884",
+        "in_reply_to_user_id": "1911559713893822464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081843954346299595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vw50qucaobi 手上有没有疤是自己的事，到底哪来的一个仅有一点生理特征相同，于是需要被统一审视统一霸凌的人群？只有自己迫不及待在社会地位上阿Q式精神霸凌的人会站在庸俗道德和自觉排斥认知以外事物的立场上，主动抛弃大脑不去正确认知他人，人为建构这种用于统一歧视的人群去不知所云的在明示暗示中伤他人😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911559713893822464",
+        "conversation_id": "2081804234077724886",
+        "created_at": "2026-07-27T20:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081843954346299595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "kuroki___tomoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081843954346299595",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081804234077724886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroki___tomoko 有什么好归类的特殊人群就是特殊人群啊，那有人看到觉得滑稽不是很正常吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 2971,
+          "like_count": 55695,
+          "listed_count": 2,
+          "media_count": 408,
+          "tweet_count": 5032
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T23:18:54.000Z",
+        "description": "我是一个君子☺️",
+        "id": "1911559713893822464",
+        "name": "ss",
+        "pinned_tweet_id": "1915058804695392492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991834083429933056/0P9_cJns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 99,
+          "like_count": 3326,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1354
+        },
+        "url": "",
+        "username": "vw50qucaobi",
+        "verified": false
+      }
+    ]
+  }
+}

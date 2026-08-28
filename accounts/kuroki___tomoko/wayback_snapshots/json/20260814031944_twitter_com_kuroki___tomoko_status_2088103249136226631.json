@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2087961303596105770",
+    "created_at": "2026-08-14T03:19:44.000Z",
+    "display_text_range": [
+      13,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T04:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088103249136226631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1252463831185371136",
+          "start": 0,
+          "username": "Dadadajie01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088103249136226631",
+    "in_reply_to_user_id": "1252463831185371136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088099521507258762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dadadajie01 你也认同是所患之病导致的事件  和跨性别药滥舞萌什么的东西没有关联我就没有和你冲突的意见 我只有这是单纯精神病伤人不该拿去炒作攻击任何群体这一个表达，另外她患有的ADHD等疾病发作会降低认知事物控制自己的能力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2087961303596105770",
+        "created_at": "2026-08-14T03:19:44.000Z",
+        "display_text_range": [
+          13,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088103249136226631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1252463831185371136",
+              "start": 0,
+              "username": "Dadadajie01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088103249136226631",
+        "in_reply_to_user_id": "1252463831185371136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088099521507258762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dadadajie01 你也认同是所患之病导致的事件  和跨性别药滥舞萌什么的东西没有关联我就没有和你冲突的意见 我只有这是单纯精神病伤人不该拿去炒作攻击任何群体这一个表达，另外她患有的ADHD等疾病发作会降低认知事物控制自己的能力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252463831185371136",
+        "conversation_id": "2087961303596105770",
+        "created_at": "2026-08-14T03:04:55.000Z",
+        "display_text_range": [
+          17,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088099521507258762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "kuroki___tomoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088099521507258762",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087961303596105770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroki___tomoko 所患之病与所犯之罪有关联吗？丧失辨认能力或者控制能力了吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "is_identity_verified": false,
+        "location": "克拉斯诺亚尔斯克",
+        "most_recent_tweet_id": "2088103249136226631",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974865605204586498/1779803697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 3006,
+          "like_count": 56803,
+          "listed_count": 2,
+          "media_count": 426,
+          "tweet_count": 5176
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-21T05:07:10.000Z",
+        "description": "こんにちは。私はBG4JIE、20代前半の大学生で、N2合格証明書取った、今N1に向けて勉強中、趣味はACGNとアマチュア無線とairsoftと撮影で、面白いものが好き、よろしくお願いします😸",
+        "id": "1252463831185371136",
+        "is_identity_verified": false,
+        "location": "距您1.6km",
+        "most_recent_tweet_id": "2088099521507258762",
+        "name": "Ziergaixv🐀🐂🐅🐇🐉🐍🐎🐑🐒🐓🐕🐖",
+        "pinned_tweet_id": "2055682513448718735",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252463831185371136/1757637218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809050334725353473/GTm1-qUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 2351,
+          "like_count": 43541,
+          "listed_count": 8,
+          "media_count": 1472,
+          "tweet_count": 8622
+        },
+        "url": "",
+        "username": "Dadadajie01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2087949160318435752",
+    "created_at": "2026-08-13T17:32:28.000Z",
+    "display_text_range": [
+      8,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T18:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087955460653822188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1366340658563149827",
+          "start": 0,
+          "username": "kugi55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087955460653822188",
+    "in_reply_to_user_id": "1366340658563149827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087955072810647613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kugi55 是的呀  女孩别在网上撕逼了我来爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2087949160318435752",
+        "created_at": "2026-08-13T17:32:28.000Z",
+        "display_text_range": [
+          8,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087955460653822188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1366340658563149827",
+              "start": 0,
+              "username": "kugi55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087955460653822188",
+        "in_reply_to_user_id": "1366340658563149827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087955072810647613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kugi55 是的呀  女孩别在网上撕逼了我来爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366340658563149827",
+        "conversation_id": "2087949160318435752",
+        "created_at": "2026-08-13T17:30:56.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087955072810647613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "kuroki___tomoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087955072810647613",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087953263450816756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroki___tomoko 好的 …等一下3p ？！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "is_identity_verified": false,
+        "location": "克拉斯诺亚尔斯克",
+        "most_recent_tweet_id": "2087955460653822188",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974865605204586498/1779803697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 3000,
+          "like_count": 56659,
+          "listed_count": 2,
+          "media_count": 423,
+          "tweet_count": 5152
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-01T10:53:01.000Z",
+        "description": "04年/mtf/173.6cm56.5kg/ip:kr/hrt:2022.10.26/ 已停药 摸鱼减肥喵 常驻韩国 假期回国玩 目前摸鱼减肥 留发中ing 胸围36A/80A vrc：kugi55",
+        "id": "1366340658563149827",
+        "is_identity_verified": true,
+        "location": "Gyeonggi-do, Republic of Korea",
+        "most_recent_tweet_id": "2087955072810647613",
+        "name": "@kugi55🏳️‍⚧️🇰🇷",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1366340658563149827/1671667172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985525846225104896/KZ4cBosK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 957,
+          "like_count": 50126,
+          "listed_count": 7,
+          "media_count": 1512,
+          "tweet_count": 16673
+        },
+        "url": "",
+        "username": "kugi55",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

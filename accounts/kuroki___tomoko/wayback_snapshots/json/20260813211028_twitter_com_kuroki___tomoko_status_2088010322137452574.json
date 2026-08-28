@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088010224477282304"
+      ]
+    },
+    "author_id": "1974865605204586498",
+    "conversation_id": "2088010322137452574",
+    "created_at": "2026-08-13T21:10:28.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T22:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088010322137452574"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PKd9jCxCjQ",
+          "end": 41,
+          "expanded_url": "https://x.com/kuroki___tomoko/status/2088010322137452574/photo/1",
+          "media_key": "3_2088010224477282304",
+          "start": 18,
+          "url": "https://t.co/PKd9jCxCjQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088010322137452574",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088010224477282304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你是谁呀！可以备注微信让我加你们🥹 https://t.co/PKd9jCxCjQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 838,
+        "media_key": "3_2088010224477282304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoaPIVaIAARBjc.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088010224477282304"
+          ]
+        },
+        "author_id": "1974865605204586498",
+        "conversation_id": "2088010322137452574",
+        "created_at": "2026-08-13T21:10:28.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088010322137452574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PKd9jCxCjQ",
+              "end": 41,
+              "expanded_url": "https://x.com/kuroki___tomoko/status/2088010322137452574/photo/1",
+              "media_key": "3_2088010224477282304",
+              "start": 18,
+              "url": "https://t.co/PKd9jCxCjQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088010322137452574",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088010224477282304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是谁呀！可以备注微信让我加你们🥹 https://t.co/PKd9jCxCjQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "is_identity_verified": false,
+        "location": "克拉斯诺亚尔斯克",
+        "most_recent_tweet_id": "2088010322137452574",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974865605204586498/1779803697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 3001,
+          "like_count": 56718,
+          "listed_count": 2,
+          "media_count": 425,
+          "tweet_count": 5169
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2087946866176790722",
+    "created_at": "2026-08-13T19:02:17.000Z",
+    "display_text_range": [
+      15,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T20:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087978060415221921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055010868174143488",
+          "start": 0,
+          "username": "Tiegang114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087978060415221921",
+    "in_reply_to_user_id": "2055010868174143488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087946866176790722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tiegang114514 我主页全是吵架切割嘲讽的  难以理解这种风向…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087946866176790722].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087946866176790722",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087946866176790722"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2087946866176790722",
+        "created_at": "2026-08-13T19:02:17.000Z",
+        "display_text_range": [
+          15,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087978060415221921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055010868174143488",
+              "start": 0,
+              "username": "Tiegang114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087978060415221921",
+        "in_reply_to_user_id": "2055010868174143488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087946866176790722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tiegang114514 我主页全是吵架切割嘲讽的  难以理解这种风向…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "is_identity_verified": false,
+        "location": "克拉斯诺亚尔斯克",
+        "most_recent_tweet_id": "2087978060415221921",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974865605204586498/1779803697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 2999,
+          "like_count": 56686,
+          "listed_count": 2,
+          "media_count": 423,
+          "tweet_count": 5156
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-14T19:43:08.000Z",
+        "description": "永锁号，就这么样吧",
+        "id": "2055010868174143488",
+        "is_identity_verified": false,
+        "location": "小樽",
+        "most_recent_tweet_id": "2055088739349873029",
+        "name": "社恐的鱼睡大觉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055010868174143488/1778788115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079172038615588864/quwrGD2g_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 106,
+          "like_count": 5781,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "Tiegang114514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

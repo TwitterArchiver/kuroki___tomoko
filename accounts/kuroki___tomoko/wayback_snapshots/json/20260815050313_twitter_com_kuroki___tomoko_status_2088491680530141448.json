@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2088337613304586298",
+    "created_at": "2026-08-15T05:03:13.000Z",
+    "display_text_range": [
+      12,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T06:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088491680530141448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597468568290873344",
+          "start": 0,
+          "username": "jingzhny11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/deathofmaid/st…",
+          "end": 35,
+          "expanded_url": "https://x.com/deathofmaid/status/2088479754114486680?s=20",
+          "start": 12,
+          "url": "https://t.co/hgB2xt3lsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088491680530141448",
+    "in_reply_to_user_id": "1597468568290873344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088479754114486680",
+        "type": "quoted"
+      },
+      {
+        "id": "2088337613304586298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzhny11 https://t.co/hgB2xt3lsa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2088337613304586298",
+        "created_at": "2026-08-15T05:03:13.000Z",
+        "display_text_range": [
+          12,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088491680530141448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597468568290873344",
+              "start": 0,
+              "username": "jingzhny11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/deathofmaid/st…",
+              "end": 35,
+              "expanded_url": "https://x.com/deathofmaid/status/2088479754114486680?s=20",
+              "start": 12,
+              "url": "https://t.co/hgB2xt3lsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088491680530141448",
+        "in_reply_to_user_id": "1597468568290873344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088479754114486680",
+            "type": "quoted"
+          },
+          {
+            "id": "2088337613304586298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzhny11 https://t.co/hgB2xt3lsa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597468568290873344",
+        "conversation_id": "2088337613304586298",
+        "created_at": "2026-08-14T18:51:01.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088337613304586298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088337613304586298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4437,
+          "like_count": 27,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我支持三角枫。\n因为你必须记住，普通人的冲突中使用暴力是弱势的表现，因为不能通过常规社会资源维护利益时，最后的选择才是直接的暴力，正如欠薪老板不需要拿刀指着讨薪民工才能逼迫对方就范\n以及，精神病是被社会强奸染上的性病，精神病院和监狱一样是为统治阶级服务的暴政\n还有，按时间她不在药效"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062899703553875968",
+        "conversation_id": "2087961303596105770",
+        "created_at": "2026-08-15T04:15:50.000Z",
+        "display_text_range": [
+          41,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088479754114486680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1161907687749296128",
+              "start": 0,
+              "username": "XRMKunome"
+            },
+            {
+              "end": 27,
+              "id": "1974865605204586498",
+              "start": 11,
+              "username": "kuroki___tomoko"
+            },
+            {
+              "end": 40,
+              "id": "1252463831185371136",
+              "start": 28,
+              "username": "Dadadajie01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088479754114486680",
+        "in_reply_to_user_id": "1161907687749296128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088430164791402677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XRMKunome @kuroki___tomoko @Dadadajie01 我也一直在想😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "is_identity_verified": false,
+        "location": "克拉斯诺亚尔斯克",
+        "most_recent_tweet_id": "2088491680530141448",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974865605204586498/1779803697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 3007,
+          "like_count": 56836,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 5187
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "🍥​2023 srs2025 一米九超大只术娘老阿姨\n自由左翼的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视/如果我放弃我的自由屈从于国家机器的规训我就已经死了",
+        "id": "1597468568290873344",
+        "is_identity_verified": false,
+        "location": "谁人的繁星之梦",
+        "most_recent_tweet_id": "2088491697298911450",
+        "name": "愿望天使DesireAngel",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597468568290873344/1771935753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5889,
+          "following_count": 2000,
+          "like_count": 128493,
+          "listed_count": 22,
+          "media_count": 268,
+          "tweet_count": 19459
+        },
+        "url": "",
+        "username": "jingzhny11",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-05T14:11:40.000Z",
+        "description": "",
+        "id": "2062899703553875968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088479754114486680",
+        "name": "Zz",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062899703553875968/1783115127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085032875557367808/lH6hv3iv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "deathofmaid",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-15T07:49:14.000Z",
+        "description": "是个人类，活着的（暂时）。\n是重度ADHD患者，欢迎交流讨论。\n很喜欢看可可爱爱的碎碎念。",
+        "id": "1161907687749296128",
+        "is_identity_verified": false,
+        "location": "我在你背后",
+        "most_recent_tweet_id": "2088487154582434170",
+        "name": "XRMK-Suspended Fate",
+        "pinned_tweet_id": "2069342375055401157",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1161907687749296128/1782268621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073556703006932992/f0ulYp-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 32,
+          "like_count": 3074,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1613
+        },
+        "url": "",
+        "username": "XRMKunome",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

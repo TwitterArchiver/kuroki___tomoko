@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088238223625781249"
+      ]
+    },
+    "author_id": "1974865605204586498",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2088240405703979256",
+    "created_at": "2026-08-14T12:24:45.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088240405703979256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n9ZoOhLz7O",
+          "end": 28,
+          "expanded_url": "https://x.com/kuroki___tomoko/status/2088240405703979256/photo/1",
+          "media_key": "3_2088238223625781249",
+          "start": 5,
+          "url": "https://t.co/n9ZoOhLz7O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088240405703979256",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088238223625781249"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亚米亚米 https://t.co/n9ZoOhLz7O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3037,
+        "media_key": "3_2088238223625781249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrpmbWbgAEsjLY.jpg",
+        "width": 2697
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088238223625781249"
+          ]
+        },
+        "author_id": "1974865605204586498",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088240405703979256",
+        "created_at": "2026-08-14T12:24:45.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088240405703979256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n9ZoOhLz7O",
+              "end": 28,
+              "expanded_url": "https://x.com/kuroki___tomoko/status/2088240405703979256/photo/1",
+              "media_key": "3_2088238223625781249",
+              "start": 5,
+              "url": "https://t.co/n9ZoOhLz7O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088240405703979256",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088238223625781249"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亚米亚米 https://t.co/n9ZoOhLz7O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "is_identity_verified": false,
+        "location": "克拉斯诺亚尔斯克",
+        "most_recent_tweet_id": "2088240405703979256",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974865605204586498/1779803697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 3006,
+          "like_count": 56803,
+          "listed_count": 2,
+          "media_count": 427,
+          "tweet_count": 5179
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

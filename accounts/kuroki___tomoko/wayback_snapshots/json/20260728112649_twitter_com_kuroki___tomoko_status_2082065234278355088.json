@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082064277838704640"
+      ]
+    },
+    "author_id": "1974865605204586498",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081804234077724886",
+    "created_at": "2026-07-28T11:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082065234278355088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1133377214991327232",
+          "start": 0,
+          "username": "banzhang0625"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dLdrC59PEY",
+          "end": 93,
+          "expanded_url": "https://x.com/kuroki___tomoko/status/2082065234278355088/photo/1",
+          "media_key": "3_2082064277838704640",
+          "start": 70,
+          "url": "https://t.co/dLdrC59PEY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082065234278355088",
+    "in_reply_to_user_id": "1133377214991327232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082055133740023845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@banzhang0625 嗯你说的完全正确  起码查下我成分再来问呢  反而呢被您这样的二次元小保留言真的是骇死我了，百无禁忌全家不沾🙏 https://t.co/dLdrC59PEY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2082064277838704640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOT6bfAbMAAx8BT.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082064277838704640"
+          ]
+        },
+        "author_id": "1974865605204586498",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081804234077724886",
+        "created_at": "2026-07-28T11:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082065234278355088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1133377214991327232",
+              "start": 0,
+              "username": "banzhang0625"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dLdrC59PEY",
+              "end": 93,
+              "expanded_url": "https://x.com/kuroki___tomoko/status/2082065234278355088/photo/1",
+              "media_key": "3_2082064277838704640",
+              "start": 70,
+              "url": "https://t.co/dLdrC59PEY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082065234278355088",
+        "in_reply_to_user_id": "1133377214991327232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082055133740023845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banzhang0625 嗯你说的完全正确  起码查下我成分再来问呢  反而呢被您这样的二次元小保留言真的是骇死我了，百无禁忌全家不沾🙏 https://t.co/dLdrC59PEY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1133377214991327232",
+        "conversation_id": "2081804234077724886",
+        "created_at": "2026-07-28T10:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082055133740023845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "kuroki___tomoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082055133740023845",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081804234077724886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroki___tomoko 你去截屏別人的截圖截屏，你自己不也是應激的一部分？ 正常人不理會不就行了然後點舉報\n是不是説明你自己也是有花刀呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 2981,
+          "like_count": 55784,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 5043
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-28T14:19:19.000Z",
+        "description": "這個人很神秘，什麽都沒有寫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "biqigubafan.com",
+                "end": 23,
+                "expanded_url": "http://www.biqigubafan.com",
+                "start": 0,
+                "url": "https://t.co/MsanlTSYQV"
+              }
+            ]
+          }
+        },
+        "id": "1133377214991327232",
+        "location": "I",
+        "name": "86—不存在的匿名㍿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797342284452950016/kuwbdJka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 1078,
+          "like_count": 10173,
+          "listed_count": 9,
+          "media_count": 820,
+          "tweet_count": 3446
+        },
+        "url": "https://t.co/MsanlTSYQV",
+        "username": "banzhang0625",
+        "verified": false
+      }
+    ]
+  }
+}

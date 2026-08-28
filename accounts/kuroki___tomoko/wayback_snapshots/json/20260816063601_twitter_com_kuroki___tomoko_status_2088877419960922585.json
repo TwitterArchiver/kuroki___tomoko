@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2088834142763159572",
+    "created_at": "2026-08-16T06:36:01.000Z",
+    "display_text_range": [
+      8,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088877419960922585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1795232279733886976",
+          "start": 0,
+          "username": "AiXipi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088877419960922585",
+    "in_reply_to_user_id": "1795232279733886976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088834142763159572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiXipi 老公我亲死你呀！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4900,
+        "height": 720,
+        "media_key": "13_2088834115835666432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088834115835666432/img/pQvHvuI4G9fnDOJu.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088834115835666432/vid/avc1/404x270/fwnvWL3RjS9d94Ah.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088834115835666432/vid/avc1/540x360/oe4p6WLoCfEsVGnJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088834115835666432/vid/avc1/1082x720/blXS4CbP4aQ6sM6R.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088834115835666432/pl/jQyJaN55J-IyueTG.m3u8"
+          }
+        ],
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2088834142763159572",
+        "created_at": "2026-08-16T06:36:01.000Z",
+        "display_text_range": [
+          8,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088877419960922585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1795232279733886976",
+              "start": 0,
+              "username": "AiXipi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088877419960922585",
+        "in_reply_to_user_id": "1795232279733886976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088834142763159572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiXipi 老公我亲死你呀！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088834115835666432"
+          ]
+        },
+        "author_id": "1795232279733886976",
+        "conversation_id": "2088834142763159572",
+        "created_at": "2026-08-16T03:44:02.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088834142763159572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4S0EoxzYX",
+              "end": 28,
+              "expanded_url": "https://x.com/AiXipi/status/2088834142763159572/video/1",
+              "media_key": "13_2088834115835666432",
+              "start": 5,
+              "url": "https://t.co/B4S0EoxzYX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088834142763159572",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2088834115835666432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咩咩咩咩 https://t.co/B4S0EoxzYX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "is_identity_verified": false,
+        "location": "克拉斯诺亚尔斯克",
+        "most_recent_tweet_id": "2088877419960922585",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974865605204586498/1779803697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 3005,
+          "like_count": 56885,
+          "listed_count": 2,
+          "media_count": 428,
+          "tweet_count": 5188
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-27T23:15:16.000Z",
+        "description": "The good life 不懂事随便发着玩\n性别随父Q2723417300来扩列吧",
+        "id": "1795232279733886976",
+        "is_identity_verified": false,
+        "location": "监狱",
+        "most_recent_tweet_id": "2088834142763159572",
+        "name": "粉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795232279733886976/1786457658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087180762307248128/pbJLjBYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 192,
+          "like_count": 3202,
+          "listed_count": 6,
+          "media_count": 36,
+          "tweet_count": 1083
+        },
+        "url": "",
+        "username": "AiXipi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

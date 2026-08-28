@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2081804234077724886",
+    "created_at": "2026-07-28T06:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081995001832325390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2031821384914255874",
+          "start": 0,
+          "username": "aaa1429748"
+        },
+        {
+          "end": 24,
+          "id": "1911559713893822464",
+          "start": 12,
+          "username": "vw50qucaobi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081995001832325390",
+    "in_reply_to_user_id": "2031821384914255874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081994578887053415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaa1429748 @vw50qucaobi 因为我没有生活不如意到需要成天搜索和我观点对立的人去发生冲突，不像你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2081804234077724886",
+        "created_at": "2026-07-28T06:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081995001832325390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2031821384914255874",
+              "start": 0,
+              "username": "aaa1429748"
+            },
+            {
+              "end": 24,
+              "id": "1911559713893822464",
+              "start": 12,
+              "username": "vw50qucaobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081995001832325390",
+        "in_reply_to_user_id": "2031821384914255874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081994578887053415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaa1429748 @vw50qucaobi 因为我没有生活不如意到需要成天搜索和我观点对立的人去发生冲突，不像你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031821384914255874",
+        "conversation_id": "2081804234077724886",
+        "created_at": "2026-07-28T06:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081994578887053415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "kuroki___tomoko"
+            },
+            {
+              "end": 29,
+              "id": "1911559713893822464",
+              "start": 17,
+              "username": "vw50qucaobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081994578887053415",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081993762134478910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroki___tomoko @vw50qucaobi 贱畜别扣法西斯帽子了，你都知道变性是人家自己的权益怎么不去那些母人频道下面骂呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 2977,
+          "like_count": 55775,
+          "listed_count": 2,
+          "media_count": 408,
+          "tweet_count": 5040
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T19:56:00.000Z",
+        "description": "依附在旧有社会权利结构以此玩身份政治赚钱的进步逼赶紧滚，败坏性少数群体声誉，挑动保守主义者和思想进步青年之间的矛盾。不管你是自由派还是左派还是保守右翼还是多元性别，一起反对女权毒瘤",
+        "id": "2031821384914255874",
+        "location": "USSR",
+        "name": "aaa女权为首的进步逼讨口子运动就是反人类",
+        "pinned_tweet_id": "2079294750491045935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058834459378741248/V0cI3bWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 70,
+          "like_count": 1858,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1035
+        },
+        "url": "",
+        "username": "aaa1429748",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T23:18:54.000Z",
+        "description": "我是一个君子☺️",
+        "id": "1911559713893822464",
+        "name": "ss",
+        "pinned_tweet_id": "1915058804695392492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991834083429933056/0P9_cJns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 99,
+          "like_count": 3330,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1358
+        },
+        "url": "",
+        "username": "vw50qucaobi",
+        "verified": false
+      }
+    ]
+  }
+}

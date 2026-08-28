@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2087961303596105770",
+    "created_at": "2026-08-14T10:48:31.000Z",
+    "display_text_range": [
+      10,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T11:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088216189931856147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1891955358924738560",
+          "start": 0,
+          "username": "7xiaoren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088216189931856147",
+    "in_reply_to_user_id": "1891955358924738560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088210841913205027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7xiaoren 嗯哼  所以您觉得这是一起 跨性别激素紊乱伤人  舞萌玩家伤人  以前吃过普瑞巴林所以伤人还是什么呢   定责会不会考虑到精神病是警方的事，我不清楚只推断她精神不稳导致了这个事件  没有哪句话地图炮过精神病，我自己也是，所以不用对和她扯上关系这么应激"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2087961303596105770",
+        "created_at": "2026-08-14T10:48:31.000Z",
+        "display_text_range": [
+          10,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088216189931856147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891955358924738560",
+              "start": 0,
+              "username": "7xiaoren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088216189931856147",
+        "in_reply_to_user_id": "1891955358924738560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088210841913205027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7xiaoren 嗯哼  所以您觉得这是一起 跨性别激素紊乱伤人  舞萌玩家伤人  以前吃过普瑞巴林所以伤人还是什么呢   定责会不会考虑到精神病是警方的事，我不清楚只推断她精神不稳导致了这个事件  没有哪句话地图炮过精神病，我自己也是，所以不用对和她扯上关系这么应激"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891955358924738560",
+        "conversation_id": "2087961303596105770",
+        "created_at": "2026-08-14T10:27:16.000Z",
+        "display_text_range": [
+          17,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088210841913205027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "kuroki___tomoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088210841913205027",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087961303596105770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroki___tomoko 精神病伤人能被法律认可的无非就是双相和精分，因为会有很严重的被害妄想和幻觉，从来没有听过ADHD伤人能被作为脱罪的考量。\n\n别什么事情都拿我们精神病患者挡刀和当借口，我们普通的精神病患者也是人，也需要权益保障，不是你们这种人的借口"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "is_identity_verified": false,
+        "location": "克拉斯诺亚尔斯克",
+        "most_recent_tweet_id": "2088216189931856147",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974865605204586498/1779803697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 3004,
+          "like_count": 56797,
+          "listed_count": 2,
+          "media_count": 426,
+          "tweet_count": 5177
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-18T20:58:16.000Z",
+        "description": "如果你想起我是谁，记得忘了我",
+        "id": "1891955358924738560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088210841913205027",
+        "name": "㸦卡",
+        "pinned_tweet_id": "2087866012343648282",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891955358924738560/1739914627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891956482796814337/4ik8Ta4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 98,
+          "like_count": 17068,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 1973
+        },
+        "url": "",
+        "username": "7xiaoren",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

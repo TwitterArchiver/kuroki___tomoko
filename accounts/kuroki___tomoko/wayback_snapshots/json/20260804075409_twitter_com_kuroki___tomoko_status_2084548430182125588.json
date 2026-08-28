@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2084548430182125588",
+    "created_at": "2026-08-04T07:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084548430182125588"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084548430182125588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药效里对人际关系和现实生活的判断都会让人对自己的生存空间过于乐观吧   一旦余晖消散不仅要忍受心境被抑郁焦虑慢慢剥离替代，连同之前对生活的幻想也会被压缩到什么都不剩，平常的世界那些令人厌恶的事全部展现在不被药效保护的思考里了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2084548430182125588",
+        "created_at": "2026-08-04T07:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084548430182125588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084548430182125588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药效里对人际关系和现实生活的判断都会让人对自己的生存空间过于乐观吧   一旦余晖消散不仅要忍受心境被抑郁焦虑慢慢剥离替代，连同之前对生活的幻想也会被压缩到什么都不剩，平常的世界那些令人厌恶的事全部展现在不被药效保护的思考里了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 2985,
+          "like_count": 56181,
+          "listed_count": 2,
+          "media_count": 413,
+          "tweet_count": 5104
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      }
+    ]
+  }
+}

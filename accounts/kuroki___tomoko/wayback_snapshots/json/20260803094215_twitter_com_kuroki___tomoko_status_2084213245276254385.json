@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1974865605204586498",
+    "conversation_id": "2084213245276254385",
+    "created_at": "2026-08-03T09:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084213245276254385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pr80net/status…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/pr80net/status/2083398685044695282",
+          "start": 16,
+          "url": "https://t.co/EtUU4wJ9oF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084213245276254385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083398685044695282",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "服药三个月体重涨幅没超四斤🫳🫳 https://t.co/EtUU4wJ9oF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2083397969538433024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOm3ajwbwAAYx-O.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2084213245276254385",
+        "created_at": "2026-08-03T09:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084213245276254385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pr80net/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/pr80net/status/2083398685044695282",
+              "start": 16,
+              "url": "https://t.co/EtUU4wJ9oF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084213245276254385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083398685044695282",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "服药三个月体重涨幅没超四斤🫳🫳 https://t.co/EtUU4wJ9oF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083397969538433024"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2083398685044695282",
+        "created_at": "2026-08-01T03:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083398685044695282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ecmel2jklA",
+              "end": 164,
+              "expanded_url": "https://x.com/pr80net/status/2083398685044695282/photo/1",
+              "media_key": "3_2083397969538433024",
+              "start": 141,
+              "url": "https://t.co/ecmel2jklA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083398685044695282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6527,
+          "like_count": 17,
+          "quote_count": 7,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "接下来登场的是王多鱼脂肪险冠名赞助商、精神病院增重传说、每年增加脂肪可绕地球三圈、关机效果堪比电脑电源上浇热水的傻吃猛涨御三家猪饲料：组胺H1受体拮抗剂御三家喹硫平、奥氮平、氯氮平。司美格鲁肽上场刷了一圈发现奥氮平进来扫反炸鱼了一个月胖了十斤从此退市。米氮平因功过相抵不列入此栏。 https://t.co/ecmel2jklA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2065210507393659376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 2979,
+          "like_count": 56071,
+          "listed_count": 2,
+          "media_count": 414,
+          "tweet_count": 5104
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 446,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      }
+    ]
+  }
+}
